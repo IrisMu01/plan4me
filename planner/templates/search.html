@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Plan4me</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css_images/search.css' %}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+    <body>
+        <form action="/planner/search/result/" method="post" id="user-input">{% csrf_token %}
+            <img src="{% static 'css_images/logo.png' %}" id="logo"><br/>
+            <label for="city">Which city are you visiting?</label>
+            <input id="city" type="text" name = "city" value="{{ city_default }}">
+            <br/>
+            <label for="date_from">When does your trip start?</label>
+            <input id="date_from" type="date" value="{{ start_date_default }}">
+            <br/>
+            <label for="date_to">When does your trip end?</label>
+            <input id="date_to" type="date" value="{{ end_date_default }}">
+            <br/>
+            <label for="min_budget">On a scale of 1 to 4, what is your lowest budget level acceptable?</label>
+            <input id="min_budget" type="number" min="1" max="4" step="1" value="1">
+            <br/>
+            <label for="max_budget">On a scale of 1 to 4, what is your highest budget level acceptable?</label>
+            <input id="max_budget" type="number" min="1" max="4" step="1" value="4">
+            <br/>
+            <label for="keywords">What are some of the keywords highlighting your trip?</label>
+            <input id="keywords" type="text" value="{{ keywords_default }}">
+            <br/>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
+    
