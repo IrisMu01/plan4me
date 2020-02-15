@@ -27,7 +27,7 @@ def search_and_display(Request):
             # the populated values will be stored into
             # form.cleaned_data (yep the form defined above)
             print('form is valid.')
-            result = form.makeAPICall()
+            result = forms.makeAPICall()
             print(result)
             # return to a new URL
             return HttpResponseRedirect('/thanks/')

@@ -3,6 +3,7 @@ from planner.models import Poi, PoiType, Event, Location
 from planner.data_gatherer import DataGatherer
 import json
 
+
 class SearchForm(forms.Form):
     city = forms.CharField(label="city", max_length=80)
     date_from = forms.DateField(label="date_from")
