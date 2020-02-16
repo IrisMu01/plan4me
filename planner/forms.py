@@ -6,6 +6,7 @@ import json
 
 
 class SearchForm(forms.Form):
+<<<<<<< HEAD
     city = forms.CharField(label="Which city would you like to visit?", max_length=80)
     date_from = forms.CharField(
         label="When does your trip start?",
@@ -20,18 +21,24 @@ class SearchForm(forms.Form):
         min_value=1,
         max_value=4
     )
+    @property
+    def min_budg(self):
+        return self.min_budget + 0
     max_budget = forms.IntegerField(
         label="On a scale of 1 to 4, what is your highest budget level acceptable?",
         min_value=1,
         max_value=4
     )
+    @property
+    def max_budg(self):
+        return self.min_budget + 0
     keywords = forms.CharField(label="What is one keyword that highlights this trip?", max_length=100)
 
     def makeAPICall(self):
         if self.is_valid():
-            DataGatherer.get_location_data(self.city, min_budget, max_budget, "restaurant")
-            DataGatherer.get_location_data(self.city, min_budget, max_budget, "lodging")
-            DataGatherer.get_event_data(self.city, date_from, date_to, keywords)
+            DataGatherer.get_location_data(self.city, self.min_budg(), self.max_budg(), "restaurant")
+            DataGatherer.get_location_data(self.city, self.min_budg(), self.max_budg(), "lodging")
+            DataGatherer.get_event_data(self.city, self.date_from, self.date_to, self.keywords)
             try:
                 with open("restaurant_data.json", "r") as read_file:
                     json.load(read_file)
