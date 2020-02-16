@@ -12,18 +12,23 @@ def index(Request):
 
 def search(Request):
     if Request.method == 'POST':
+        # if it's a POST request,
+        # which means that the user has filled out the form (hopefully properly)
         form = SearchForm(Request.POST)
         if form.is_valid():
-            print('form is valid.')
-            result = forms.makeAPICall()
-            print(result)
-            return HttpResponseRedirect('/thanks/')
+            # print('form is valid.')
+            # ↑ for debugging only
+            return HttpResponseRedirect('result/')
+            # redirects the user to the result page
         else:
             print('invalid form.')
             print(form.errors)
             print(Request.POST)
+            # will see these in the terminal for debugging
     else:
         form = SearchForm()
+        # if it's a GET request intead of a POST one,
+        # generates an empty form for the user to fill out
     return render(Request, 'core/search.html', {'form': form})
 
 def search_and_display(Request):

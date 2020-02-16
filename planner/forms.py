@@ -6,16 +6,18 @@ import json
 
 
 class SearchForm(forms.Form):
-<<<<<<< HEAD
     city = forms.CharField(label="Which city would you like to visit?", max_length=80)
+
     date_from = forms.CharField(
         label="When does your trip start?",
         widget=FengyuanChenDatePickerInput()
     )
+
     date_to = forms.CharField(
         label="When does your trip end?",
         widget=FengyuanChenDatePickerInput()
     )
+
     min_budget = forms.IntegerField(
         label="On a scale of 1 to 4, what is your lowest budget level acceptable?",
         min_value=1,
@@ -23,7 +25,8 @@ class SearchForm(forms.Form):
     )
     @property
     def min_budg(self):
-        return self.min_budget + 0
+        return int(self.min_budget) + 0
+
     max_budget = forms.IntegerField(
         label="On a scale of 1 to 4, what is your highest budget level acceptable?",
         min_value=1,
@@ -31,8 +34,21 @@ class SearchForm(forms.Form):
     )
     @property
     def max_budg(self):
-        return self.min_budget + 0
+        return int(self.min_budget) + 0
+
     keywords = forms.CharField(label="What is one keyword that highlights this trip?", max_length=100)
+
+    # ==================================================================================
+
+    def clean_date(self):
+        if form.is_valid():
+            self.city = form.cleaned_data["city"]
+            self.date_from = form.cleaned_data["date_from"]
+            self.date_to = form.cleaned_data["date_to"]
+            self.min_budget = form.cleaned_data["min_budget"]
+            self.max_budget = form.cleaned_data["max_budget"]
+            self.keywords = form.cleaned_data["keywords"]
+
 
     def makeAPICall(self):
         if self.is_valid():
@@ -49,4 +65,4 @@ class SearchForm(forms.Form):
             except:
                 return "one of the API calls weren't successful:\n no json file created as a result of the search"
         else:
-            return f"is_valid() returned False for {self}"
+            return "is_valid() returned False"
