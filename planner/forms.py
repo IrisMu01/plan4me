@@ -61,12 +61,12 @@ class SearchForm(forms.Form):
             DataGatherer.get_location_data(self.city, self.min_budget, self.max_budget, "lodging")
             DataGatherer.get_event_data(self.city, self.date_from, self.date_to, self.keywords)
             try:
-                with open("restaurant_data.json", "r") as read_file:
+                with open("json_data/restaurant_data.json", "r") as read_file:
                     json.load(read_file)
-                with open("hotel_data.json", "r") as read_file:
+                with open("json_data/hotel_data.json", "r") as read_file:
                     json.load(read_file)
-                with open("eventful_data.json", "r") as read_file:
-                    json.load(read_file)
+                #with open("json_data/eventful_data.json", "r") as read_file:
+                #   json.load(read_file)
             except:
                 return "one of the API calls weren't successful:\n no json file created as a result of the search"
         else:

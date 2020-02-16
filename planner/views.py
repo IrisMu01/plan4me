@@ -34,6 +34,7 @@ def search(Request):
             ↑ for debugging purposes
             '''
             #form.makeAPICall()
+            # We don't make the API call for now; too slow and could cost us google account $$$ 
             # 3. parse the json files and 
 
 
@@ -52,11 +53,13 @@ def search(Request):
 
 def search_and_display(Request):
     context = {}
-    with open("restaurant_data.json", "r") as read_file:
+    '''
+    with open("json_data/restaurant_data.json", "r") as read_file:
         json.load(read_file)
-    with open("hotel_data.json", "r") as read_file:
+    with open("json_data/lodging_data.json", "r") as read_file:
         json.load(read_file)
-    with open("eventful_data.json", "r") as read_file:
+    with open("json_data/eventful_data.json", "r") as read_file:
         json.load(read_file)
+    '''
     return render(Request, 'core/result.html', context=context)
 
