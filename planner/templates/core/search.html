@@ -15,16 +15,52 @@
 
     </head>
     <body>
-        <form action="/planner/search/result/" method="post" id="user-input">{% csrf_token %}
-            <img src="{% static 'logo.png' %}" id="logo"><br/>
+        <img src="{% static 'logo.png' %}" id="logo"><br/>
+        <form method="post" id="user-input" novalidate>
+            {% csrf_token %}
+            {{ form.non_field_errors }}
+            {{ form.source.errors }}
+            {{ form.source }}
+            <p>
+                {{ form.city.label_tag }}
+                {{ form.city.errors }}
+                {{ form.city }}
+            </p>
+            <p>
+                {{ form.date_from.label_tag }}
+                {{ form.date_from.errors }}
+                {{ form.date_from }}
+            </p>
+            <p>
+                {{ form.date_to.label_tag }}
+                {{ form.date_to.errors }}
+                {{ form.date_to }}
+            </p>
+            <p>
+                {{ form.min_budget.label_tag }}
+                {{ form.min_budget.errors }}
+                {{ form.min_budget }}
+            </p>
+            <p>
+                {{ form.max_budget.label_tag }}
+                {{ form.max_budget.errors }}
+                {{ form.max_budget }}
+            </p>
+            <p>
+                {{ form.keywords.label_tag }}
+                {{ form.keywords.errors }}
+                {{ form.keywords }}
+            </p>
+            <button type="submit">Submit</button>
+        </form>
 
+            <!--
             <label for="city">Which city are you visiting?</label>
-            <input id="city" type="text" name = "city" value="{{ city_default }}">
+            <input id="city" type="text" name = "city" value="{{ city }}">
             <br/>
             
             <label for="date_from">When does your trip start?</label>
-            <input id="date_from" type="text">
-            {{ form.date }}
+            <input id="date_from" type="text" value="{{ date_from }}">
             <script>
             $(function () {
                 $("#date_from").datepicker({
@@ -35,7 +71,7 @@
             <br/>
             
             <label for="date_to">When does your trip end?</label>
-            <input id="date_to" type="text">
+            <input id="date_to" type="text" value="{{ date_to }}">
             <script>
                 $(function () {
                     $("#date_to").datepicker({
@@ -54,12 +90,9 @@
             <br/>
             
             <label for="keywords">What are some of the keywords highlighting your trip?</label>
-            <input id="keywords" type="text" value="{{ keywords_default }}">
+            <input id="keywords" type="text" value="{{ keywords }}">
             <br/>
-            
-            <input type="submit" value="Submit">
-        
-        </form>
+            -->
     </body>
 </html>
     

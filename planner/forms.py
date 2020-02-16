@@ -1,19 +1,31 @@
 from django import forms
 from planner.models import Poi, PoiType, Event, Location
 from planner.data_gatherer import DataGatherer
+from .widgets import FengyuanChenDatePickerInput
 import json
 
 
 class SearchForm(forms.Form):
-    city = forms.CharField(label="city", max_length=80)
-    date_from = forms.DateField(label="date_from")
-    date_to = forms.DateField(label="date_to")
-    min_budget = forms.IntegerField(min_value=1, max_value=4)
-    max_budget = forms.IntegerField(min_value=1, max_value=4)
-    keywords = forms.CharField(max_length=100)
-
-    def __str__(self):
-        return f"{self.city}:\n from {self.date_from} to {self.date_to},\n budget range = {self.min_budget} ~ {self.max_budget},\n keywords = {self.keywords}\n"
+    city = forms.CharField(label="Which city would you like to visit?", max_length=80)
+    date_from = forms.CharField(
+        label="When does your trip start?",
+        widget=FengyuanChenDatePickerInput()
+    )
+    date_to = forms.CharField(
+        label="When does your trip end?",
+        widget=FengyuanChenDatePickerInput()
+    )
+    min_budget = forms.IntegerField(
+        label="On a scale of 1 to 4, what is your lowest budget level acceptable?",
+        min_value=1,
+        max_value=4
+    )
+    max_budget = forms.IntegerField(
+        label="On a scale of 1 to 4, what is your highest budget level acceptable?",
+        min_value=1,
+        max_value=4
+    )
+    keywords = forms.CharField(label="What is one keyword that highlights this trip?", max_length=100)
 
     def makeAPICall(self):
         if self.is_valid():
