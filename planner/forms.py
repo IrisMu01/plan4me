@@ -40,20 +40,25 @@ class SearchForm(forms.Form):
 
     # ==================================================================================
 
-    def clean_date(self):
-        if form.is_valid():
-            self.city = form.cleaned_data["city"]
-            self.date_from = form.cleaned_data["date_from"]
-            self.date_to = form.cleaned_data["date_to"]
-            self.min_budget = form.cleaned_data["min_budget"]
-            self.max_budget = form.cleaned_data["max_budget"]
-            self.keywords = form.cleaned_data["keywords"]
+    def clean_data(self):
+        if self.is_valid():
+            self.city = self.cleaned_data["city"]
+
+            self.date_from = self.cleaned_data["date_from"]
+            self.date_from = self.date_from[6:10]+self.date_from[3:5]+self.date_from[0:2]+'000000'
+            # reformatting self.date_from to make it fit the API request call format
+            self.date_to = self.cleaned_data["date_to"]
+            self.date_to = self.date_to[6:10]+self.date_to[3:5]+self.date_to[0:2]+'235959'
+            
+            self.min_budget = self.cleaned_data["min_budget"]
+            self.max_budget = self.cleaned_data["max_budget"]
+            self.keywords = self.cleaned_data["keywords"]
 
 
     def makeAPICall(self):
         if self.is_valid():
-            DataGatherer.get_location_data(self.city, self.min_budg(), self.max_budg(), "restaurant")
-            DataGatherer.get_location_data(self.city, self.min_budg(), self.max_budg(), "lodging")
+            DataGatherer.get_location_data(self.city, self.min_budget, self.max_budget, "restaurant")
+            DataGatherer.get_location_data(self.city, self.min_budget, self.max_budget, "lodging")
             DataGatherer.get_event_data(self.city, self.date_from, self.date_to, self.keywords)
             try:
                 with open("restaurant_data.json", "r") as read_file:

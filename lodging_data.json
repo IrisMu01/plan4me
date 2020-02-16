@@ -1,0 +1,894 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CpQCCgEAAOQN77W7BXKVBY7ET_DIMDMcRQtQ47pQP6dEFkQWjHKpQx_Dxz1YxTmma0QxD73q4IAXRBgvN77FTL_ws5WlmaYQudkstsW4t1m50r0zGTfT0jgkk6NC9W1CgywkstjwqxLWQwOZU1WEi7Yhs51LPDgjVZlhCmMHLtIAQz4Zaekow7AT8LuTG9K_LWwC3_y4oSu_Xvh_rT__fjIeOQRjfBhmhAfG1UqQcvDSwEre971XTm5ycfEDS9Bz1HWMdDuulVDJcCap9qWa8IoW2L-LlC2_UrHe-iKIi1F8zUA9olJabRn6bwMsC22zLAdyb41i8D1bvI4Jj3DYayHAwoWoZms-y-CuztyTWrPywakc2c8WEhBiD-7Xpn8scPYoBkj9JSxcGhT8GPhExDW2KSwoNjSBuCjWSQEKUw",
+   "results" : [
+      {
+         "formatted_address" : "1234 Hornby St, Vancouver, BC V6Z 1W2",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2779047,
+               "lng" : -123.1286238
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27919067989272,
+                  "lng" : -123.1272623701073
+               },
+               "southwest" : {
+                  "lat" : 49.27649102010727,
+                  "lng" : -123.1299620298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "876656a032ca65bcf127c8f8bea78e7995eaac86",
+         "name" : "Residence Inn by Marriott Vancouver Downtown",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112134478145812971842\"\u003eResidence Inn Vancouver Downtown\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9dWNLa8MzfiXzl_rMd8SXJKVOPNF_EYCDN5hjOWt-WuV7HCR0qshSbVUXAEb_WVuPxp7PWMJfCTs4pywv0RnJ1VTFyzCViBSiu1e2zhr18hGXInNfeTLw_mc0CJXmCoeEhD0lEOOqzLZWq4K-1u3YtQZGhSl9BnCMDXfUXsaivGwtU69bBYDaw",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgXOcgNRzhlQRYaYJ-NfFCzg",
+         "plus_code" : {
+            "compound_code" : "7VHC+5H Vancouver, British Columbia",
+            "global_code" : "84XR7VHC+5H"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJgXOcgNRzhlQRYaYJ-NfFCzg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 856
+      },
+      {
+         "formatted_address" : "1018 Granville St, Vancouver, BC V6Z 1L5",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2789609,
+               "lng" : -123.1232568
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28035077989272,
+                  "lng" : -123.1219609201073
+               },
+               "southwest" : {
+                  "lat" : 49.27765112010728,
+                  "lng" : -123.1246605798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ec1545cace1436f3e9f78219b33ab76e01ab426d",
+         "name" : "Samesun Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115667235589241763370\"\u003eSamesun Backpacker Lodge\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0myfTQ1W0QM3dKkPFRNVSGWyNi-MClNWXlaNMLgfJrLQAmxT2ijO94pGnd_D-BlH0GD97XIZq3OD5JpK8sJpILVjGTxPVjuqLR4PKPxeuP-fMgcPJwN4GBcqW1K6K06bEhBx6u74ta662qQYbG1-_62DGhRlTybQH4tvoQFufI6lh2MD98H33Q",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJX78Do9VzhlQRH6oKpTwbncE",
+         "plus_code" : {
+            "compound_code" : "7VHG+HM Vancouver, British Columbia",
+            "global_code" : "84XR7VHG+HM"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJX78Do9VzhlQRH6oKpTwbncE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 986
+      },
+      {
+         "formatted_address" : "733 Beatty St, Vancouver, BC V6B 2M4",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2784684,
+               "lng" : -123.1130462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27975747989272,
+                  "lng" : -123.1116003201073
+               },
+               "southwest" : {
+                  "lat" : 49.27705782010727,
+                  "lng" : -123.1142999798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "090b368f640ec612df48efd556232680ffc017e3",
+         "name" : "YWCA Hotel Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1690,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117247176538301918001\"\u003eYWCA Hotel Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAccz3uTtLEVgDv7Ozk4xpdRoKNK3ZmhGDBJRszb9Hv_z6jR6BqRg0vPlOOx3gv3o0LyjN2OZHxU8q2hWzgGG5rxGVgoGSSgKrmxQw2kdSCNKygMmnCr3TTd1mFH97AqpqEhBFbVbcIvHLagW9cw11K0BIGhR-y65P1_fWKJUpP66ua9xtaCeOeQ",
+               "width" : 1000
+            }
+         ],
+         "place_id" : "ChIJb_fBRnxxhlQRqDwF3mm7BJg",
+         "plus_code" : {
+            "compound_code" : "7VHP+9Q Vancouver, British Columbia",
+            "global_code" : "84XR7VHP+9Q"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJb_fBRnxxhlQRqDwF3mm7BJg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 772
+      },
+      {
+         "formatted_address" : "1180 W Hastings St, Vancouver, BC V6E 4R5",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.288504,
+               "lng" : -123.1221223
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28990187989272,
+                  "lng" : -123.1207379201073
+               },
+               "southwest" : {
+                  "lat" : 49.28720222010727,
+                  "lng" : -123.1234375798928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "35b84da2fea62b8469be8dc23e574b8188cb2e79",
+         "name" : "Coast Coal Harbour Vancouver Hotel by APA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106916473396126107227\"\u003eCoast Coal Harbour Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlzPPofoCOoJGjEFOiXY9dkgssFY5I0d0FS-vhAu6aZ6CaaWShmYwatHpZtrhS36OzL5FrZ3HE8VK0RpaCXmVkBhl45NvKrLGm_OyMzb6FHwFTaIMtqztdDGyLXE7L0yBEhCay5wHRKNPavB-6ZtbSgG6GhTcYCL5NIk2nz-wsdCnkjcGGIB6PQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJJbA--INxhlQRvSmmOz3pfFQ",
+         "plus_code" : {
+            "compound_code" : "7VQH+C5 Vancouver, British Columbia",
+            "global_code" : "84XR7VQH+C5"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJJbA--INxhlQRvSmmOz3pfFQ",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1057
+      },
+      {
+         "formatted_address" : "711 W. Broadway @, Heather St, Vancouver, BC V5Z 3Y2",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.263578,
+               "lng" : -123.120284
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26478947989271,
+                  "lng" : -123.1191483701072
+               },
+               "southwest" : {
+                  "lat" : 49.26208982010727,
+                  "lng" : -123.1218480298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "2554a9de0c26bc69b9abcd706f0f1a6114a7cb4d",
+         "name" : "Holiday Inn Vancouver-Centre (Broadway)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1251,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107563952230025643258\"\u003eHoliday Inn Vancouver-Centre (Broadway)\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAtHsbgliBSVJldypkFLGgNigV2Fm5at9-6y3Jl63ufc39tnuWbc1w61yKjYyFWmXRUiVHI_Q4fQLXxTMVdxQej76DLojM5TuCjk8XOj-Jz4M1uhBc5jnGjnNXumxqtwHYEhA3ULyv0gtBGE_utAMhVfx8GhQD0Kz3XdoGg9b2dtNiwAmSUmkRWw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJlRClLN1zhlQRMLzJ8VLP524",
+         "plus_code" : {
+            "compound_code" : "7V7H+CV Vancouver, British Columbia",
+            "global_code" : "84XR7V7H+CV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJlRClLN1zhlQRMLzJ8VLP524",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 906
+      },
+      {
+         "formatted_address" : "2030 Barclay St, Vancouver, BC V6G 1L5",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2921822,
+               "lng" : -123.1411177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.29358097989272,
+                  "lng" : -123.1396931201072
+               },
+               "southwest" : {
+                  "lat" : 49.29088132010727,
+                  "lng" : -123.1423927798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6a255fc38a916ade12b20dfd35300bc360615749",
+         "name" : "Rosellen Suites At Stanley Park",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117317646863990349642\"\u003eRosellen Suites at Stanley Park\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASA48hZnxeXab5eQFb8qIc4rncSJgZtdyJaEeYfqfiIRs1jVwP5wjNVZ4aIb2rPNtxB7hKeLUojAvpAfDrO4-cSgEjWRP-q2rNZH79Du7ROjSb6jQdBoHn-39q_dyR8KREhCrp6aCTKnokJ2YI_RT-nLyGhT5NHaOmhOIf3dUmdTZcuQovPUNpA",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJpSHgYe1zhlQRazZ-KvU8Odg",
+         "plus_code" : {
+            "compound_code" : "7VR5+VH Vancouver, British Columbia",
+            "global_code" : "84XR7VR5+VH"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJpSHgYe1zhlQRazZ-KvU8Odg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 168
+      },
+      {
+         "formatted_address" : "1154 Gilford St, Vancouver, BC V6G 2P6",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2885711,
+               "lng" : -123.142681
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28996322989272,
+                  "lng" : -123.1414000201073
+               },
+               "southwest" : {
+                  "lat" : 49.28726357010728,
+                  "lng" : -123.1440996798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a5b4102716658839d6463b5f9eb62839630e0d4b",
+         "name" : "Sylvia Hotel and Restaurant",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105444865799829627231\"\u003eJoshua Clements\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAITy844SbbH2go95UcCQ14pp2OFWYkFT1FfES5WgVX4Th5UULYzM_sMbsc1aDcnIVyP3EOfUBC9XvBGzpM0X7JEg977a-6yuW5E-CSpA7patjThvM4y_3JydC015TstgvEhBUkZ37JqUS3qBg4Vx6C5gmGhQxvlUMYJqkHdBBz8oU24QURS64Xg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJQxM6DCZyhlQRCMLwTITyWEE",
+         "plus_code" : {
+            "compound_code" : "7VQ4+CW Vancouver, British Columbia",
+            "global_code" : "84XR7VQ4+CW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJQxM6DCZyhlQRCMLwTITyWEE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1082
+      },
+      {
+         "formatted_address" : "1000 Burrard St, Vancouver, BC V6Z 2R9",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.280314,
+               "lng" : -123.1264736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28162037989272,
+                  "lng" : -123.12419375
+               },
+               "southwest" : {
+                  "lat" : 49.27892072010728,
+                  "lng" : -123.12806515
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "21bee4a1aea37e4098967c2f14f637b5e6acac36",
+         "name" : "Sheraton Vancouver Wall Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2100,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101227153217952264313\"\u003eSheraton Vancouver Wall Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkj7Znf8wiD2ihmOV_yYSDZGbL7_DDRJu2QaSm9glCBMVFWzlav5Nh1f9dRVXIoXQC6fe-4EEtBKjytgrBpwV7ZzRoH2xqcM4_Hq88oS7ytr9OvrQd4I6gaASzU5fnbOsEhBAGarqkg1DmKDWgoX8qp7RGhQ_74oNbXP8g5-ZKvqUgSyqUBb9jw",
+               "width" : 1400
+            }
+         ],
+         "place_id" : "ChIJ6wwnJtVzhlQRwYCWCmD7kjM",
+         "plus_code" : {
+            "compound_code" : "7VJF+4C Vancouver, British Columbia",
+            "global_code" : "84XR7VJF+4C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ6wwnJtVzhlQRwYCWCmD7kjM",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3695
+      },
+      {
+         "formatted_address" : "446 W 13th Ave, Vancouver, BC V5Y 1W5",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2593089,
+               "lng" : -123.1140997
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26073007989273,
+                  "lng" : -123.1127459201073
+               },
+               "southwest" : {
+                  "lat" : 49.25803042010728,
+                  "lng" : -123.1154455798928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3702e2620870ecd441f94a646460196eea158c1f",
+         "name" : "Cambie Lodge Bed and Breakfast",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101582926829958320352\"\u003eSharon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASMKuWxaiJ7OxLErCsSHIHaJLnLxsPpBfKG-bwGK2pMJ8uHFq8I1sJXYs3j_QgM1u0TtdOjtvyQWzv6m-JVjHwW7G11zi3nxAoK9Y5Mjn_Jj1SldNG-Pj4X9OqMj_Ej26EhBlslFw_Db5hpyXSVW5NbxWGhRJh0MVS8jStwOIw4XlKFs2CgC_hA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJb-ofKeZzhlQRizCscOIjnoA",
+         "plus_code" : {
+            "compound_code" : "7V5P+P9 Vancouver, British Columbia",
+            "global_code" : "84XR7V5P+P9"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJb-ofKeZzhlQRizCscOIjnoA",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 40
+      },
+      {
+         "formatted_address" : "1253 Johnston St, Vancouver, BC V6H 3R9",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2692773,
+               "lng" : -123.1309526
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27068122989272,
+                  "lng" : -123.1300275701073
+               },
+               "southwest" : {
+                  "lat" : 49.26798157010728,
+                  "lng" : -123.1327272298928
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "95212256c2dbcca9a6ee816206fcc0779b7c98f0",
+         "name" : "Granville Island Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1067,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118416114288354856922\"\u003eGranville Island Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-7LA0xQmIn6iOdSfGRfAlDJOSg8OZqY08rxpi4hjZ-k3AUXlxDkVoB-kikuPawf-mBVloIwUsb_OWJKzR03R6b8FG7pzfHCHpGD1hYU6eU_Rxr5wXqaB34aTQC9I8wuEEhBx5XldyKHyS81woc0MU3tDGhQeA5nS0iVm06vXqOb2hZpB0dIY1A",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJP6I2o89zhlQRSkYvDZwd_a4",
+         "plus_code" : {
+            "compound_code" : "7V99+PJ Vancouver, British Columbia",
+            "global_code" : "84XR7V99+PJ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJP6I2o89zhlQRSkYvDZwd_a4",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 476
+      },
+      {
+         "formatted_address" : "2159 W 21st Ave, Vancouver, BC V6L 1J2",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.253694,
+               "lng" : -123.1547691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.25496132989272,
+                  "lng" : -123.1534226701072
+               },
+               "southwest" : {
+                  "lat" : 49.25226167010728,
+                  "lng" : -123.1561223298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "848a77f2d58d4c075db543ecd462c8351d4926db",
+         "name" : "Vancouver Traveller Bed and Breakfast",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105959012780241024047\"\u003eVancouver Traveller Bed and Breakfast\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAl30dd0u-9AePy5qh69vTF-Dk7GWBjp-MmmJxo3Bmjco-q6TiHLwei2xOOrDDEQYrD4HmHUjpAehd9bhasYejehqauynO_s8nzfGlkf3BJPJeQ6BjC6smDO4mQd93jME-EhBZVA0pisbZ_zstuhBO96ReGhTrx7-SCUWGGW2pUH_pwvdzIZV6hA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJaWOBv6NzhlQREFIwla0qL9Q",
+         "plus_code" : {
+            "compound_code" : "7R3W+F3 Vancouver, British Columbia",
+            "global_code" : "84XR7R3W+F3"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJaWOBv6NzhlQREFIwla0qL9Q",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "formatted_address" : "322 Davie St, Vancouver, BC V6B 5Z6",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2746307,
+               "lng" : -123.1225589
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27598482989272,
+                  "lng" : -123.1211290701073
+               },
+               "southwest" : {
+                  "lat" : 49.27328517010728,
+                  "lng" : -123.1238287298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "d2ab5e542d1ab8944cf5173665239289883fdd43",
+         "name" : "OPUS Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3679,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113471843899054737985\"\u003eOPUS Hotel Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkZiy0uOmjeyGArC3O-voDaSOAssvss3VucZh1vuxGnQdqkW3V8dExa8nOfabX4_PbvmkKb1s0IMU5mJApeDodkCbb1tGUnC33XJXYPWSbQ4_7uzfLruSnpqAYDpa2RjrEhBGcydvyTIexGDX1O_mJnFpGhQBHiFLq9A1_1LvYx6-Beht6IZW2g",
+               "width" : 4534
+            }
+         ],
+         "place_id" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
+         "plus_code" : {
+            "compound_code" : "7VFG+VX Vancouver, British Columbia",
+            "global_code" : "84XR7VFG+VX"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
+         "types" : [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 453
+      },
+      {
+         "formatted_address" : "1100 Burrard St, Vancouver, BC V6Z 1Y7",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2798715,
+               "lng" : -123.1274389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28131627989273,
+                  "lng" : -123.1262365201073
+               },
+               "southwest" : {
+                  "lat" : 49.27861662010728,
+                  "lng" : -123.1289361798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c6bfe09fa04cf8fb9d30df68385f02eb58b42085",
+         "name" : "The Burrard",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116310682100205820960\"\u003eThe Burrard\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAooiAIAP8gj1TnwNYuK-mhg0mx0LnxuPEBrpSyGo7Zd78p8gmxNMXE4iuvRW0Cbt4rtJvOp4kOaNiEOoEOtbc9j2ldQ2Mk1pbvZ_93_BFLhapJZzJ1lE1pTkGPDAuQQLxEhBPY8Y0AWoGtoT91Tc9n0lQGhRzcnshh4g7Z_NGlEQ0oafFLU07EQ",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJlURm3NRzhlQRUgBdGn2MvDU",
+         "plus_code" : {
+            "compound_code" : "7VHF+W2 Vancouver, British Columbia",
+            "global_code" : "84XR7VHF+W2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJlURm3NRzhlQRUgBdGn2MvDU",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 473
+      },
+      {
+         "formatted_address" : "5961 Student Union Blvd, Vancouver, BC V6T 2C9",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.269461,
+               "lng" : -123.2486436
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.27073947989272,
+                  "lng" : -123.2472355201073
+               },
+               "southwest" : {
+                  "lat" : 49.26803982010728,
+                  "lng" : -123.2499351798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "9f977ee71f7d092f20663299c0221ba58c0efc8c",
+         "name" : "West Coast Suites at UBC",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113761718233634519778\"\u003eWest Coast Suites at UBC\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnmys-UFhyP9HN2GFn1EGj2SVKjccZ3LZRn-qQxKPnSKys6ps2fv9kc7m9rCPViJZMX4AD8feCfZc2MvtohgXEMevzPL1YHtEp-OubETTHznqgK_vTXUzqEVtNthGShy_EhAMYBY1iHj-ryaHwL4poYE0GhRfudUjiaTcamz4krBOYy15lTzb-A",
+               "width" : 2560
+            }
+         ],
+         "place_id" : "ChIJV0p8WLdyhlQRhIQSy4D_B5I",
+         "plus_code" : {
+            "compound_code" : "7Q92+QG Vancouver, British Columbia",
+            "global_code" : "84XR7Q92+QG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJV0p8WLdyhlQRhIQSy4D_B5I",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 121
+      },
+      {
+         "formatted_address" : "550 W Hastings St, Vancouver, BC V6B 1L6",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.284105,
+               "lng" : -123.1128696
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28540147989273,
+                  "lng" : -123.1115134201073
+               },
+               "southwest" : {
+                  "lat" : 49.28270182010728,
+                  "lng" : -123.1142130798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "46c2cae1b5a8949fb3527fd416f191e5e6b8d961",
+         "name" : "Delta Hotels by Marriott Vancouver Downtown Suites",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106212953415094195526\"\u003eTeresa Rosa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMono2SqcYazG3_XzMvygYmqxvRxTPanpz10pYoqKsed3WuLovOuL6G43xuhEVrgzfWtHzUHhatb5iEutjxTKqFURt51pbDDjeeSgitAEJB1so8SC3qfn9iPFTXlIcQfsEhBIM3sSp8O2krbYa3vbrpdvGhTAJyYGPNQTvOd1OM1ZzhO0ZFbtag",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJA6OT9XhxhlQRtz8gZhvDAlg",
+         "plus_code" : {
+            "compound_code" : "7VMP+JV Vancouver, British Columbia",
+            "global_code" : "84XR7VMP+JV"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJA6OT9XhxhlQRtz8gZhvDAlg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1089
+      },
+      {
+         "formatted_address" : "900 W Georgia St, Vancouver, BC V6C 2W6",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2837928,
+               "lng" : -123.1209888
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28508437989272,
+                  "lng" : -123.1196761701073
+               },
+               "southwest" : {
+                  "lat" : 49.28238472010728,
+                  "lng" : -123.1223758298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "064dc293c1ea306e75d2274cbfc1f96f28bb7a52",
+         "name" : "Fairmont Hotel Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116749430061067994858\"\u003eThe Fairmont Hotel Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeShNkiO-VwAc9b4jkj1gwQNNp9I7xkafsIk1qvy5F2Cs9msl51QnmVlRPC4R-qA2gRkQSNH6Xu4bC7B-c6-WnijK4-9PNv7USMYv4sl2itGUwVTZwLFjdM8S_kG1qy6SEhCFby0pWGTuZZ5QcsrwV08ZGhR-hKlpLgZtnss84HK-LGwfRXAZRg",
+               "width" : 2000
+            }
+         ],
+         "place_id" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
+         "plus_code" : {
+            "compound_code" : "7VMH+GJ Vancouver, British Columbia",
+            "global_code" : "84XR7VMH+GJ"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3858
+      },
+      {
+         "formatted_address" : "577 Richards St, Vancouver, BC V6B 2Z5",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2826575,
+               "lng" : -123.1142031
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28397652989272,
+                  "lng" : -123.1128073201073
+               },
+               "southwest" : {
+                  "lat" : 49.28127687010728,
+                  "lng" : -123.1155069798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "5a5944d4ea5933bee20595d1adbca6192571a29c",
+         "name" : "St Clair Hotel-Hostel Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115660225906143531519\"\u003eSt Clair Hotel - Hostel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAI42pE1OqdlroNesGtv60YdFxf7j6OkqPg3NrCDqe_Y_w1KOWTlfOP-mvObMT4rU5NlkrMwLUboVOLf7rWI1WDkrCvYrSLQGO4mvTUcV5U38iS4sfbJAQLmyR8LaCApJFEhAI6DxlbekNQ6Dkma1hSkXFGhQOaWOWie3bHKYXjycxfJzHQ-js0g",
+               "width" : 1005
+            }
+         ],
+         "place_id" : "ChIJn54q2HhxhlQRg1AMN8IXgYM",
+         "plus_code" : {
+            "compound_code" : "7VMP+38 Vancouver, British Columbia",
+            "global_code" : "84XR7VMP+38"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJn54q2HhxhlQRg1AMN8IXgYM",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 267
+      },
+      {
+         "formatted_address" : "2075 West Mall, Vancouver, BC V6T 1Z2",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2638419,
+               "lng" : -123.2553794
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.26526507989273,
+                  "lng" : -123.2538388701073
+               },
+               "southwest" : {
+                  "lat" : 49.26256542010729,
+                  "lng" : -123.2565385298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3297dd4ff6041a35d7f6c303f82489a49efb9a8c",
+         "name" : "Ponderosa Studios",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 660,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102412122864327006820\"\u003ePonderosa Studios\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANhCGO6lfnm_vmHSOGnZUG41pugkgLdiFBrLk96icHPFO2KnHIDaz_B4uPW0J_-Y-gQVaX6o31cNwDyT1k-O6Oq0vOT8LFz1AgOQBZHuSO3PMewlQGGTFOXPdh0-T3RYLEhCrhgn5QqbbsdaqtmvdsvCeGhTS8KxhhMzdFzaOoTYjVpoQhAJImw",
+               "width" : 1170
+            }
+         ],
+         "place_id" : "ChIJdR1VurVyhlQRxIgoMsy4kbg",
+         "plus_code" : {
+            "compound_code" : "7P7V+GR Vancouver, British Columbia",
+            "global_code" : "84XR7P7V+GR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJdR1VurVyhlQRxIgoMsy4kbg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 110
+      },
+      {
+         "formatted_address" : "900 Canada Pl, Vancouver, BC V6C 3L5",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28716480000001,
+               "lng" : -123.1138462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28872342989272,
+                  "lng" : -123.1123280701073
+               },
+               "southwest" : {
+                  "lat" : 49.28602377010728,
+                  "lng" : -123.1150277298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "710dd64c04b1241487134988f72ecc662570a1a6",
+         "name" : "Hotel Fairmont Waterfront",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115671232273049393360\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2ZFp1d0pUGaroQVXkmo6A4mOvexoQ7mBDf6Fc-YG5mhHvK-SXV_j4nxQFam7zzX1tvzU195ouHvDfIk0tqxZqGVrN_VBiA8FJFPkQRVW30z1zxBS_mP8CG2OlFL_Sy8pEhDkFkI2KFVhD-1tw8CIoSDEGhQcTd7ESjohkkm118KrPhm2tT8dog",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJDXoq6oJxhlQRew8O_6dS7as",
+         "plus_code" : {
+            "compound_code" : "7VPP+VF Vancouver, British Columbia",
+            "global_code" : "84XR7VPP+VF"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJDXoq6oJxhlQRew8O_6dS7as",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2635
+      },
+      {
+         "formatted_address" : "300 - 999 Canada Pl, Vancouver, BC V6C 3B5",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.28801,
+               "lng" : -123.1130091
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.28911282989272,
+                  "lng" : -123.1118168201073
+               },
+               "southwest" : {
+                  "lat" : 49.28641317010728,
+                  "lng" : -123.1145164798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "559abd0adcfe3e24dcb244176d4790c273295001",
+         "name" : "Pan Pacific Vancouver",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110720006778489830973\"\u003ePan Pacific Hotel Vancouver\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARgE4CHhIzXrsqNEF7JRq8GIiCzHFYr5wzwSZECINOQr6LK0YNsVmoPSjVMDsfCXwT7AA-776_fZnr0Ej26l8BwnPs6j6XPORYG4lgHy7WpQSiwZ8hLAdal6anMeCVb8sEhCZm3vEtOJo_U9R0mcMcZQXGhQZ5VWToZL2RduPe01CLosn59nguQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ18-j2oJxhlQRnsW7wcnQG1E",
+         "plus_code" : {
+            "compound_code" : "7VQP+6Q Vancouver, British Columbia",
+            "global_code" : "84XR7VQP+6Q"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ18-j2oJxhlQRnsW7wcnQG1E",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3186
+      }
+   ],
+   "status" : "OK"
+}

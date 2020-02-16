@@ -18,6 +18,24 @@ def search(Request):
         if form.is_valid():
             # print('form is valid.')
             # ↑ for debugging only
+
+            # more code here to:
+            # 1. clean the data
+            form.clean_data()
+            # 2. make the API call
+            '''
+            print(form.city, type(form.city))
+            print(form.date_from, type(form.date_from))
+            print(form.date_to, type(form.date_to))
+            print(form.min_budget, type(form.min_budget))
+            print(form.max_budget, type(form.max_budget))
+            print(form.keywords, type(form.keywords))
+            ↑ for debugging purposes
+            '''
+            #form.makeAPICall()
+            # 3. parse the json files and 
+
+
             return HttpResponseRedirect('result/')
             # redirects the user to the result page
         else:
