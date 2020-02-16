@@ -3,6 +3,7 @@ from django.views import generic
 from django.shortcuts import render
 from planner.models import Poi, PoiType, Event, Location, SearchReq
 from planner.forms import SearchForm
+import json
 # Create your views here.
 
 # homepage is an absolutely static page
