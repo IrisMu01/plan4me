@@ -65,4 +65,4 @@ class SearchForm(forms.Form):
             except:
                 return "one of the API calls weren't successful:\n no json file created as a result of the search"
         else:
-            return self.keywords
+            return "is_valid() returned False"
