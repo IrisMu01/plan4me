@@ -3,6 +3,7 @@ from django.views import generic
 from django.shortcuts import render
 from planner.models import Poi, PoiType, Event, Location, SearchReq
 from planner.forms import SearchForm
+import json
 # Create your views here.
 
 # homepage is an absolutely static page
@@ -51,5 +52,11 @@ def search(Request):
 
 def search_and_display(Request):
     context = {}
+    with open("restaurant_data.json", "r") as read_file:
+        json.load(read_file)
+    with open("hotel_data.json", "r") as read_file:
+        json.load(read_file)
+    with open("eventful_data.json", "r") as read_file:
+        json.load(read_file)
     return render(Request, 'core/result.html', context=context)
 
