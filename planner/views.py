@@ -18,6 +18,7 @@ def search(Request):
         if form.is_valid():
             # print('form is valid.')
             # ↑ for debugging only
+            form.makeAPICall()
             return HttpResponseRedirect('result/')
             # redirects the user to the result page
         else:
@@ -33,5 +34,11 @@ def search(Request):
 
 def search_and_display(Request):
     context = {}
+    with open("restaurant_data.json", "r") as read_file:
+        json.load(read_file)
+    with open("hotel_data.json", "r") as read_file:
+        json.load(read_file)
+    with open("eventful_data.json", "r") as read_file:
+        json.load(read_file)
     return render(Request, 'core/result.html', context=context)
 
