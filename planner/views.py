@@ -15,7 +15,7 @@ def search(Request):
         form = SearchForm(Request.POST)
         if form.is_valid():
             print('form is valid.')
-            result = forms.makeAPICall()
+            result = form.makeAPICall()
             print(result)
             return HttpResponseRedirect('/thanks/')
         else:
