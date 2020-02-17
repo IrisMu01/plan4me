@@ -3,6 +3,7 @@ from django.views import generic
 from django.shortcuts import render
 from planner.models import Poi, PoiType, Event, Location, SearchReq
 from planner.forms import SearchForm
+from planner import res_json_parsar
 import json
 # Create your views here.
 
@@ -34,7 +35,6 @@ def search(Request):
             ↑ for debugging purposes
             '''
             #form.makeAPICall()
-            # We don't make the API call for now; too slow and could cost us google account $$$ 
             # 3. parse the json files and 
 
 
@@ -52,14 +52,7 @@ def search(Request):
     return render(Request, 'core/search.html', {'form': form})
 
 def search_and_display(Request):
-    context = {}
-    '''
-    with open("json_data/restaurant_data.json", "r") as read_file:
-        json.load(read_file)
-    with open("json_data/lodging_data.json", "r") as read_file:
-        json.load(read_file)
-    with open("json_data/eventful_data.json", "r") as read_file:
-        json.load(read_file)
-    '''
-    return render(Request, 'core/result.html', context=context)
+    context = {"posts": [{"restaurant": res_json_parsar.location_parser("restaurant_data.json")}, 
+                         {"hotel": res_json_parsar.location_parser("lodging_data.json")}]}
+    return render(Request, 'core/result.html', context)
 
