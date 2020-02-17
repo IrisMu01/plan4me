@@ -1,6 +1,6 @@
 from django import forms
 from planner.models import Poi, PoiType, Event, Location
-from planner.data_gatherer import DataGatherer
+from planner.json_data.data_gatherer import DataGatherer
 from .widgets import FengyuanChenDatePickerInput
 import json
 
@@ -60,14 +60,16 @@ class SearchForm(forms.Form):
             DataGatherer.get_location_data(self.city, self.min_budget, self.max_budget, "restaurant")
             DataGatherer.get_location_data(self.city, self.min_budget, self.max_budget, "lodging")
             DataGatherer.get_event_data(self.city, self.date_from, self.date_to, self.keywords)
+            '''
             try:
-                with open("json_data/restaurant_data.json", "r") as read_file:
+                with open("/json_data/restaurant_data.json", "r") as read_file:
                     json.load(read_file)
-                with open("json_data/hotel_data.json", "r") as read_file:
+                with open("/json_data/hotel_data.json", "r") as read_file:
                     json.load(read_file)
                 #with open("json_data/eventful_data.json", "r") as read_file:
                 #   json.load(read_file)
             except:
                 return "one of the API calls weren't successful:\n no json file created as a result of the search"
+            '''
         else:
             return "is_valid() returned False"

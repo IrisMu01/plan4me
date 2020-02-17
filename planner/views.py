@@ -33,9 +33,8 @@ def search(Request):
             print(form.keywords, type(form.keywords))
             ↑ for debugging purposes
             '''
-            #form.makeAPICall()
+            form.makeAPICall()
             # We don't make the API call for now; too slow and could cost us google account $$$ 
-            # 3. parse the json files and 
 
 
             return HttpResponseRedirect('result/')

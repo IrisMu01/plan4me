@@ -42,7 +42,7 @@ class DataGatherer:
         ticktemaster_data = requests.get(url=ticketmaster_url, params=ticketmaster_params)
 
         #save eventful data to a file
-        with open("json_data/eventful_data.json", "w", encoding="utf-8") as eventful_datafile:
+        with open("eventful_data.json", "w", encoding="utf-8") as eventful_datafile:
             eventful_datafile.write(eventful_data.text)
 
         #save ticketmaster data to a file
@@ -82,7 +82,7 @@ class DataGatherer:
         places_data = requests.get(url=url, params=params)
 
         #save data to file
-        with open(f"json_data/{keywords}_data.json", "w", encoding="utf-8") as datafile:
+        with open(f"{keywords}_data.json", "w", encoding="utf-8") as datafile:
             datafile.write(places_data.text)
         
         return keywords

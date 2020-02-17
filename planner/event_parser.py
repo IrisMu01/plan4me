@@ -1,0 +1,25 @@
+import json
+
+def event_parser(fileName):
+    with open(fileName, "r") as read_file:
+        event_dict = json.load(read_file)
+    list_of_events = event_dict.get("events").get("event")
+    tidy_list = []
+    entry_num = 0
+    # print(event_dict.get("events").get("event")[0].keys())
+    # event_dict.get("events").get("event")[0] gets you the list
+    # of events
+    for each in list_of_events:
+        to_update = {}
+        to_update.update({"index": entry_num})
+        to_update.update({"title": each.get("title")})
+        to_update.update({"start_time": each.get("start_time")})
+        to_update.update({"stop_time": each.get("stop_time")})
+        to_update.update({"venue_name": each.get("venue_name")})
+        to_update.update({"url": each.get("url")})
+        entry_num += 1
+        tidy_list.append(to_update)
+    for each in tidy_list:
+        print(each)
+        print("\n\n\n")
+    return tidy_list
