@@ -1,6 +1,6 @@
 from django import forms
 from planner.models import Poi, PoiType, Event, Location
-from planner.json_data.data_gatherer import DataGatherer
+from planner.data_gatherer import DataGatherer
 from .widgets import FengyuanChenDatePickerInput
 import json
 
@@ -34,7 +34,7 @@ class SearchForm(forms.Form):
     )
     @property
     def max_budg(self):
-        return int(self.min_budget) + 0
+        return int(self.max_budget) + 0
 
     keywords = forms.CharField(label="What is one keyword that highlights this trip?", max_length=100)
 

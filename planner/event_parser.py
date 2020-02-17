@@ -1,14 +1,13 @@
 import json
 
-def event_parser(fileName):
+def eventful_parser(fileName):
     with open(fileName, "r") as read_file:
         event_dict = json.load(read_file)
     list_of_events = event_dict.get("events").get("event")
-    tidy_list = []
-    entry_num = 0
-    # print(event_dict.get("events").get("event")[0].keys())
     # event_dict.get("events").get("event")[0] gets you the list
     # of events
+    tidy_list = []
+    entry_num = 0
     for each in list_of_events:
         to_update = {}
         to_update.update({"index": entry_num})
