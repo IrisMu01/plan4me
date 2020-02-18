@@ -81,7 +81,8 @@ class DataGatherer:
 
         #make request, save to a variable
         places_data = requests.get(url=url, params=params)
-        for entry in location_dict["results"]:
+        #use Django ORM to save data to dbms, sqlite3
+        for entry in places_data["results"]:
             data = Poi()
             if "price_level" in entry:
                 data.priceLV = entry["price_level"]
