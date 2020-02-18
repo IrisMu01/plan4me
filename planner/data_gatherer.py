@@ -81,11 +81,14 @@ class DataGatherer:
 
         #make request, save to a variable
         places_data = requests.get(url=url, params=params)
-        #use Django ORM to save data to dbms, sqlite3
+        #use Django ORM to save data to dbms, sqlite3, for location_data
         for entry in places_data["results"]:
             data = Poi()
             if "price_level" in entry:
                 data.priceLV = entry["price_level"]
+                data.placeType = "restaurant"
+            else:
+                data.placeType = "hotel"
             data.address = entry["formatted_address"]
             data.name = entry["name"]
             data.rating = entry["rating"]
@@ -95,8 +98,6 @@ class DataGatherer:
         with open(f"{keywords}_data.json", "w", encoding="utf-8") as datafile:
             datafile.write(places_data.text)
         """
-        
-        
         return keywords
 
 # test runs

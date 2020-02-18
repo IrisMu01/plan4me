@@ -61,5 +61,11 @@ def search_and_display(Request):
         "hotels": location_parser("lodging_data.json"),
         "events": eventful_parser("eventful_data.json")
     }
+
+    context_orm = {
+        "restaurants": PoiType.objects.filter(pType="restaurant"),
+        "hotels": PoiType.objects.filter(pType="hotel"),
+        "events": eventful_parser("eventful_data.json")
+    }
     return render(Request, 'core/result.html', context)
 
