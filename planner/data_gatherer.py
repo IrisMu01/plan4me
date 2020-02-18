@@ -1,6 +1,7 @@
 """Gathers data for travelplan about events"""
 # Credit goes to Calder Johnson
 import requests
+from .models import Poi
 
 class DataGatherer:
     """container for data gathering methods"""
@@ -80,10 +81,20 @@ class DataGatherer:
 
         #make request, save to a variable
         places_data = requests.get(url=url, params=params)
-
+        for entry in location_dict["results"]:
+            data = Poi()
+            if "price_level" in entry:
+                data.priceLV = entry["price_level"]
+            data.address = entry["formatted_address"]
+            data.name = entry["name"]
+            data.rating = entry["rating"]
+            data.ratingCount = entry["user_ratings_total"]
+        """
         #save data to file
         with open(f"{keywords}_data.json", "w", encoding="utf-8") as datafile:
             datafile.write(places_data.text)
+        """
+        
         
         return keywords
 
