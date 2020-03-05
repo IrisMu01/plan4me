@@ -1,7 +1,7 @@
 from django.http import HttpResponseRedirect
 from django.views import generic
 from django.shortcuts import render
-from planner.models import Poi, PoiType, Event, Location, SearchReq
+from planner.models import Poi, PoiType, Event, Location
 from planner.forms import SearchForm
 from planner.res_json_parsar import location_parser
 from planner.event_parser import eventful_parser
@@ -35,7 +35,7 @@ def search(Request):
             print(form.keywords, type(form.keywords))
             ↑ for debugging purposes
             '''
-            #form.makeAPICall()
+            form.makeAPICall()
             # We don't make the API call for now; too slow and could cost us google account $$$ 
 
             return HttpResponseRedirect('result/')
@@ -67,5 +67,5 @@ def search_and_display(Request):
         "hotels": PoiType.objects.filter(pType="hotel"),
         "events": eventful_parser("eventful_data.json")
     }
-    return render(Request, 'core/result.html', context)
+    return render(Request, 'core/result2.html', context_orm)
 

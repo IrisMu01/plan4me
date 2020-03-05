@@ -1,7 +1,7 @@
 """Gathers data for travelplan about events"""
 # Credit goes to Calder Johnson
 import requests
-from .models import Poi
+from .models import Poi, PoiType, Event, Location
 
 class DataGatherer:
     """container for data gathering methods"""
@@ -42,6 +42,10 @@ class DataGatherer:
         eventful_data = requests.get(url=eventful_url, params=eventful_params)
         ticktemaster_data = requests.get(url=ticketmaster_url, params=ticketmaster_params)
 
+        #use Django ORM to save data into dbms, sqlite3, for event_data
+        #for entry in eventful_data.json()['events']['event']:
+
+
         #save eventful data to a file
         with open("eventful_data.json", "w", encoding="utf-8") as eventful_datafile:
             eventful_datafile.write(eventful_data.text)
@@ -81,24 +85,29 @@ class DataGatherer:
 
         #make request, save to a variable
         places_data = requests.get(url=url, params=params)
+
         #use Django ORM to save data to dbms, sqlite3, for location_data
-        for entry in places_data["results"]:
+        for entry in places_data.json()['results']:
             data = Poi()
             if "price_level" in entry:
                 data.priceLV = entry["price_level"]
-                data.placeType = "restaurant"
+                data.placeType = PoiType(pType='restaurant')
             else:
-                data.placeType = "hotel"
+                data.placeType = PoiType(pType="hotel")
             data.address = entry["formatted_address"]
             data.name = entry["name"]
             data.rating = entry["rating"]
             data.ratingCount = entry["user_ratings_total"]
-        """
+            data.location = Location(city=city, country='canada')
+            data.location.save()
+            data.placeType.save()
+            data.save()
+        
+        
         #save data to file
         with open(f"{keywords}_data.json", "w", encoding="utf-8") as datafile:
             datafile.write(places_data.text)
-        """
-        return keywords
+        
 
 # test runs
 #DataGatherer.get_location_data("Vancouver", 1, 4, "restaurant")

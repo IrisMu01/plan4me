@@ -5,20 +5,9 @@ import uuid
 
 # ========================================================
 
-class SearchReq(models.Model):
-    city = models.CharField(max_length=80)
-    date_from = models.DateField()
-    date_to = models.DateField()
-    min_budget = models.IntegerField()
-    max_budget = models.IntegerField()
-    keywords = models.CharField(max_length=100) 
-
 # Poi stands for place of interest
 class Poi(models.Model):
-    id = models.UUIDField(
-        primary_key=True,
-        default=uuid.uuid4,
-    )
+    poi_id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=50)
     address = models.CharField(max_length=100)
     PRICE_CHOICES = [
@@ -58,6 +47,7 @@ class Poi(models.Model):
 # 1) restaurant
 # 2) hotel
 class PoiType(models.Model):
+    poitype_id = models.AutoField(primary_key=True)
     pType = models.CharField(
         max_length=80,
         default='unknown',
@@ -69,10 +59,7 @@ class PoiType(models.Model):
 
 # interesting local events that a person can check out
 class Event(models.Model):
-    id = models.UUIDField(
-        primary_key=True,
-        default=uuid.uuid4,
-    )
+    event_id = models.AutoField(primary_key=True)
     title = models.CharField(max_length=150)
     location = models.ForeignKey(
         'Location',
@@ -96,6 +83,7 @@ class Event(models.Model):
 # location refers to the city and the country
 # right now we'll just work with Canada
 class Location(models.Model):
+    loc_id = models.AutoField(primary_key=True)
     city = models.CharField(max_length=80)
     country = models.CharField(max_length=80)
     # --------------------

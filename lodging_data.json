@@ -1,28 +1,204 @@
 {
    "html_attributions" : [],
-   "next_page_token" : "CpQCCgEAALc1BDU6qK4uKJ2ICtyjXXVPYssDqFyFVXrG2J_xp3m-X4iDLWxP8JFWaRi7Iw7L8VULao6m-7Wrqd4MTyBhMd1svC5VRGzkK9dMsMZc_n8ZnSShuLBIIot7NYhNh_M87Spl9mMz74thP8Pc96maoYKgTo182mwipoi3NU7nzoQD4PLWZ-MYYrOFp6S1vZ4pSZfjhNyXVX-rNYw56_nnqSqs71ZNb8w6Ro2i7D2coPnnZWtjr57qkjIjetgrLPzDF_JpKpYS8z45jBhxPvU6QxmMYUoyxS7HltNiLch65gLmuqMCBY8jXdE07P5FNTzGRD9cvjQsdZNdLtBhR7VNx5cJ3oeszqe31S3_efV7YuNIEhD341mpCg3P5rmY4tIsOJWPGhSIeZtEbz3gr-XdYkwDlnVyFjwNvA",
+   "next_page_token" : "CpQCCAEAANof-hHy9_Is4hTyrqYd_be72xsojOM2j_OiuZQkUW8Oml2AP4kNIWGStdjmGuHjuEVQ2mxmYwwk6aGPcdfuu6VU56lL0miXIyQ3nYT_HJB33yMfQOilqSuV2GkDHJymc_QlHk7AK_D_Bpr3YKVWMKe_fPTWBJBbZorKIn8alXZT3EmZakESIQegqlgJhBGcT1F79JrQPRpgzR5Prqvf1uOkC8B39Vt8BLzRRe_sUpHEa3pfyhHTo_liAYYicIbLO_u9lENOnK7R1rpr1qw-v_tzAlpWQgGDcFMPBWvq6Vy4xCtfb4ixJHtleg62oS9oTdm3H320No2WH48LlPtmF9pEBcGFQyv6kTBfOlOIAaulEhBUNd7GpER5M1-vQ4dmvmp1GhRCF7u2yrSJERpOOHtyD7lrW9Sstg",
    "results" : [
       {
-         "formatted_address" : "1234 Hornby St, Vancouver, BC V6Z 1W2",
+         "formatted_address" : "925 Dixon Rd, Toronto, ON M9W 1J8",
          "geometry" : {
             "location" : {
-               "lat" : 49.2779047,
-               "lng" : -123.1286238
+               "lat" : 43.6861357,
+               "lng" : -79.59633219999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 49.27919067989272,
-                  "lng" : -123.1272623701073
+                  "lat" : 43.68739112989272,
+                  "lng" : -79.59498237010727
                },
                "southwest" : {
-                  "lat" : 49.27649102010727,
-                  "lng" : -123.1299620298927
+                  "lat" : 43.68469147010727,
+                  "lng" : -79.59768202989271
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "876656a032ca65bcf127c8f8bea78e7995eaac86",
-         "name" : "Residence Inn by Marriott Vancouver Downtown",
+         "id" : "44c9dead216cf916976d75c8f41ca4a33358b4c4",
+         "name" : "DoubleTree by Hilton Toronto Airport",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110034316827364384211\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA78LkTR46Rqu37-ZLBwXALLpKb4Mk0KcXsF4BuILtqMHcnH1U-poQ3DVrgY_Swrtl45pJgFqUMX0gCHrccr-Jlp785o3gWDTT0fAfVEBNpP_EkkRGDEXTSGU1gRow-9xzEhBnzRrH7CPpjLvDF9IntBjlGhRuizB1XP3ZRTc3FMijiPGsr360Dg",
+               "width" : 4500
+            }
+         ],
+         "place_id" : "ChIJ3Voy5Zo5K4gRkuQFpSVhrPE",
+         "plus_code" : {
+            "compound_code" : "MCP3+FF Toronto, Ontario",
+            "global_code" : "87M2MCP3+FF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ3Voy5Zo5K4gRkuQFpSVhrPE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 898
+      },
+      {
+         "formatted_address" : "26 Gerrard St E, Toronto, ON M5B 1G3",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6594656,
+               "lng" : -79.38099439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66074402989273,
+                  "lng" : -79.37961602010726
+               },
+               "southwest" : {
+                  "lat" : 43.65804437010728,
+                  "lng" : -79.38231567989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "58b287590367a82d3a26facbc7bd56680a31701d",
+         "name" : "The Saint James Hotel, Ascend Hotel Collection",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1638,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117222307316478736147\"\u003eThe Saint James Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAX42EFufPwj0poGnxI2vJeU8Cf_iC3qafybBYRtqSPm6URFv_ybZR-Zo13PbecZE_k2kzDrXKDdxvkch3N-zzXlXA0Az39k_qKM6NhmkuY86bbzY5kjJFSBV_AERQfqPUEhAuJiaBMEuBtvle9fJp8JywGhQnXT2f1no8rPleoDe2zhxuuKGZzQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJGaJ8T7U0K4gREXHXECMBjK4",
+         "plus_code" : {
+            "compound_code" : "MJ59+QJ Toronto, Ontario",
+            "global_code" : "87M2MJ59+QJ"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJGaJ8T7U0K4gREXHXECMBjK4",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 325
+      },
+      {
+         "formatted_address" : "37 King St E, Toronto, ON M5C 1E9",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6490882,
+               "lng" : -79.37625369999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65061552989273,
+                  "lng" : -79.37466852010729
+               },
+               "southwest" : {
+                  "lat" : 43.64791587010728,
+                  "lng" : -79.37736817989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3e979ab1c4252c519e456c605721994ea612a75e",
+         "name" : "The Omni King Edward Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4676,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102001618132699858486\"\u003eThe Omni King Edward Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoe1ZLKKxdzCHAfaqB_4MiuDtLtWebPtCvHLRRixiekZAGtfQ1LiTqmNwtEnqdWbAoLTIKj_HTYkKf4-Uv0rtcEguLyGFhJy9Tfs_-xYcS7WS7m1ZsSoD1sgjx3gw-iBjEhC_i8cfpYz00OH0qH3X7Y9kGhQTkQp1JyGyGgHI8BgdJvQXBS0w-w",
+               "width" : 6865
+            }
+         ],
+         "place_id" : "ChIJ4z93DtkwK4gREn_Ps_Y7Cfs",
+         "plus_code" : {
+            "compound_code" : "JJXF+JF Toronto, Ontario",
+            "global_code" : "87M2JJXF+JF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ4z93DtkwK4gREn_Ps_Y7Cfs",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2979
+      },
+      {
+         "formatted_address" : "262 Carlingview Dr, Toronto, ON M9W 5G1",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6877886,
+               "lng" : -79.5964177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68893432989272,
+                  "lng" : -79.59504312010728
+               },
+               "southwest" : {
+                  "lat" : 43.68623467010728,
+                  "lng" : -79.59774277989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e1935ec1cae054740e6ea20591dfcb411cf23d58",
+         "name" : "Embassy Suites by Hilton Toronto Airport",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113964617274597370447\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvKBkpkD0Is7MS2ISpOzZp2QAev8UnF7rDyWWylSxSEfVX_qs4hPX4Q8yNmCJeurN3rvXBVFc_-TXO1G5CIjFhjhozZWSRj45tn22xyxdaNFUjL-USKw5nck-Przc0VraEhDB_9UdLp_z2Jq7C845KDbgGhRzc8PaY1KOomPbDnBAc5VKFvns1w",
+               "width" : 7680
+            }
+         ],
+         "place_id" : "ChIJM4jfzpo5K4gR-esWBMzSjv4",
+         "plus_code" : {
+            "compound_code" : "MCQ3+4C Toronto, Ontario",
+            "global_code" : "87M2MCQ3+4C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJM4jfzpo5K4gR-esWBMzSjv4",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 813
+      },
+      {
+         "formatted_address" : "1 Harbour Square, Toronto, ON M5J 1A6",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6412114,
+               "lng" : -79.37574859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64272997989272,
+                  "lng" : -79.37440842010727
+               },
+               "southwest" : {
+                  "lat" : 43.64003032010728,
+                  "lng" : -79.37710807989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ad5c603f2a7cd995e69ece479b31df5f80a5fb51",
+         "name" : "The Westin Harbour Castle, Toronto",
          "opening_hours" : {
             "open_now" : true
          },
@@ -30,666 +206,409 @@
             {
                "height" : 1366,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112134478145812971842\"\u003eResidence Inn Vancouver Downtown\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115723704077800451115\"\u003eThe Westin Harbour Castle, Toronto\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAl9Rol_I-ckqDaiCVkdqZPsb23rRBOzepH_fZd8rZIPj-0_UgA_aoHgCIvw9wBgmMIuqp_B3ZRXHMeA7JvEKgKnzymbfVJy2APlk6zbtmRK-icAJYxHaGBopxVBs_4FoUEhBmXJbGLk6_c-m2xs2-B3q6GhSBukeFqNImxseU9hXmpYVlNpVDmQ",
+               "photo_reference" : "CmRaAAAAoTLldUw2g3b4bJkgIGLKFj9MVCyjP-e6rCvcsUGvDFDdJ8HfIaRTGjn_0jupqW7FZFioXLYobJYsJdz7zEahKcP6TWL8pMB2eqNvIjoDtvPJ_UdqdvBMNO4bhtu9SVNYEhAnqtm2sgjvhT_6WINFlpCFGhRkPLgWEpNao3wyHpf5OgNjYR6PFQ",
                "width" : 2048
             }
          ],
-         "place_id" : "ChIJgXOcgNRzhlQRYaYJ-NfFCzg",
+         "place_id" : "ChIJH-wxNCrL1IkRKANEYBdXw8k",
          "plus_code" : {
-            "compound_code" : "7VHC+5H Vancouver, British Columbia",
-            "global_code" : "84XR7VHC+5H"
+            "compound_code" : "JJRF+FP Toronto, Ontario",
+            "global_code" : "87M2JJRF+FP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJH-wxNCrL1IkRKANEYBdXw8k",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5709
+      },
+      {
+         "formatted_address" : "5515 Eglinton Ave W, Toronto, ON M9C 5K5",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6524278,
+               "lng" : -79.60113129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65394692989273,
+                  "lng" : -79.59984677010729
+               },
+               "southwest" : {
+                  "lat" : 43.65124727010728,
+                  "lng" : -79.60254642989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "61c6a336bccb006791aa9414b62ec4cca199bbfc",
+         "name" : "Homewood Suites by Hilton Toronto Airport Corporate Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101913029542468253211\"\u003eHomewood Suites by Hilton Toronto Airport Corporate Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA948j5aBBd-sI5daFn5qwgAuxkHkZ4t7c3iALGOoN256E7rLPwkNkMzgGpE6Fj7S41zuHa0BvowsBPxU4rZ117AGlURAJjpfVCxfqgLD5iQEmy79y3XJWHdpW4G9pEknIEhAOXzqahYoqx4hKazIo-WYdGhRFGljoBi12K5AaWsXcr-ETflAfeA",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJRQjmBFc4K4gRYxSA_z41oeU",
+         "plus_code" : {
+            "compound_code" : "M92X+XG Etobicoke, Toronto, ON",
+            "global_code" : "87M2M92X+XG"
          },
          "rating" : 4.4,
-         "reference" : "ChIJgXOcgNRzhlQRYaYJ-NfFCzg",
+         "reference" : "ChIJRQjmBFc4K4gRYxSA_z41oeU",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 856
+         "user_ratings_total" : 568
       },
       {
-         "formatted_address" : "1018 Granville St, Vancouver, BC V6Z 1L5",
+         "formatted_address" : "1 King St W, Toronto, ON M5H 1A1",
          "geometry" : {
             "location" : {
-               "lat" : 49.2789609,
-               "lng" : -123.1232568
+               "lat" : 43.6488726,
+               "lng" : -79.37807219999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 49.28035077989272,
-                  "lng" : -123.1219609201073
+                  "lat" : 43.65015657989272,
+                  "lng" : -79.37666177010728
                },
                "southwest" : {
-                  "lat" : 49.27765112010728,
-                  "lng" : -123.1246605798927
+                  "lat" : 43.64745692010727,
+                  "lng" : -79.37936142989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "ec1545cace1436f3e9f78219b33ab76e01ab426d",
-         "name" : "Samesun Vancouver",
+         "id" : "457bce3830846e581f3f75faa2e4435bfd1b8c85",
+         "name" : "One King West Hotel & Residence",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 427,
+               "height" : 2048,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115667235589241763370\"\u003eSamesun Backpacker Lodge\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104416269411653040341\"\u003eMatt Black\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAJQHxdwQSHR07AJ_dnDK0dXzR5kdQeulX1zkwmxTRtpSDreR-YhLynmyftdgSxvnZEdTKj-nJnGNLJnKae0fqeNq68E81XjwuIXXgYBO5gfxVQJOq6fXwh80eEjYpZX3JEhAO1ziZ5yizUAKomdxotPi8GhTFTCgrms2ATkj9sgUgEVX19MD9lw",
-               "width" : 640
+               "photo_reference" : "CmRaAAAADx5R6OQYxG95Ejru8iX-wJxP84w9hThWXvtgxU6bkIhWAQlsWB2Hb2A-wIIu1j2gyArZsGO64biwxzV_8tNpVi1o0Qi8kmgBgSuElGqh_DXr3lTp9Y5zytKFGCijOfBqEhBEaMXJJePrEkmVPtMp6ivkGhQlibaaRra75ImUjM4qMqoiuVuQBA",
+               "width" : 1463
             }
          ],
-         "place_id" : "ChIJX78Do9VzhlQRH6oKpTwbncE",
+         "place_id" : "ChIJG74DgzLL1IkRu7-_ro1TbdY",
          "plus_code" : {
-            "compound_code" : "7VHG+HM Vancouver, British Columbia",
-            "global_code" : "84XR7VHG+HM"
-         },
-         "rating" : 4.2,
-         "reference" : "ChIJX78Do9VzhlQRH6oKpTwbncE",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 986
-      },
-      {
-         "formatted_address" : "733 Beatty St, Vancouver, BC V6B 2M4",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.2784684,
-               "lng" : -123.1130462
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.27975747989272,
-                  "lng" : -123.1116003201073
-               },
-               "southwest" : {
-                  "lat" : 49.27705782010727,
-                  "lng" : -123.1142999798927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "090b368f640ec612df48efd556232680ffc017e3",
-         "name" : "YWCA Hotel Vancouver",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1690,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117247176538301918001\"\u003eYWCA Hotel Vancouver\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAQqg4YIS_jfZR9o9HdL1Me1LXgMaU7O7efS5zFYKHXoZ4tjiNusYospnpCu0Lty2Jj8KXAcK5Rj8Ujf1sklXKPp8C3KJvkOlb642uSvFMeaqiBLUPVb032sJaWR_cb59mEhDMSmWpDZfZ7GEAC9mBlifvGhS8TdK-TVPPlQCRTALqT2rVQ_47Vg",
-               "width" : 1000
-            }
-         ],
-         "place_id" : "ChIJb_fBRnxxhlQRqDwF3mm7BJg",
-         "plus_code" : {
-            "compound_code" : "7VHP+9Q Vancouver, British Columbia",
-            "global_code" : "84XR7VHP+9Q"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJb_fBRnxxhlQRqDwF3mm7BJg",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 772
-      },
-      {
-         "formatted_address" : "1180 W Hastings St, Vancouver, BC V6E 4R5",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.288504,
-               "lng" : -123.1221223
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.28990187989272,
-                  "lng" : -123.1207379201073
-               },
-               "southwest" : {
-                  "lat" : 49.28720222010727,
-                  "lng" : -123.1234375798928
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "35b84da2fea62b8469be8dc23e574b8188cb2e79",
-         "name" : "Coast Coal Harbour Vancouver Hotel by APA",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 720,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106916473396126107227\"\u003eCoast Coal Harbour Hotel\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAARDU8eti3n672_ZtGHLzdJM59U65uhlGmd7gbwGZY0Iv7kAse2VkQiYHL0PowsiSZ8l0j2NvaXcG9x4mmQXFeUzujqMXS37vrEF6n-i5KYqACRlXQMne6lAyD8v1nmacPEhAhepgP3hrWoUDIir40vmAkGhRyfq6OQwcgb8PmLdHwJoWJbaORsg",
-               "width" : 720
-            }
-         ],
-         "place_id" : "ChIJJbA--INxhlQRvSmmOz3pfFQ",
-         "plus_code" : {
-            "compound_code" : "7VQH+C5 Vancouver, British Columbia",
-            "global_code" : "84XR7VQH+C5"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJJbA--INxhlQRvSmmOz3pfFQ",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1057
-      },
-      {
-         "formatted_address" : "711 W. Broadway @, Heather St, Vancouver, BC V5Z 3Y2",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.263578,
-               "lng" : -123.120284
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.26478947989271,
-                  "lng" : -123.1191483701072
-               },
-               "southwest" : {
-                  "lat" : 49.26208982010727,
-                  "lng" : -123.1218480298927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "2554a9de0c26bc69b9abcd706f0f1a6114a7cb4d",
-         "name" : "Holiday Inn Vancouver-Centre (Broadway)",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1251,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/107563952230025643258\"\u003eHoliday Inn Vancouver-Centre (Broadway)\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAlNJGjHPPuwUsfwyXQnAUQKcnpmfdGgb77ezvQsvmuky3IPwBS4UzdUaeKEIhwKiK1CtPGaXhpOneJ1hlVm63uH9wYtYG7Dd8S4EsHwljim8OwMphq-LZOycc4CVkr8iZEhCAm_N3NkSb08MzK_TX92smGhS40OFQuMFVzzjEZJhmdN7hCLBUXQ",
-               "width" : 4000
-            }
-         ],
-         "place_id" : "ChIJlRClLN1zhlQRMLzJ8VLP524",
-         "plus_code" : {
-            "compound_code" : "7V7H+CV Vancouver, British Columbia",
-            "global_code" : "84XR7V7H+CV"
-         },
-         "rating" : 4.1,
-         "reference" : "ChIJlRClLN1zhlQRMLzJ8VLP524",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 906
-      },
-      {
-         "formatted_address" : "2030 Barclay St, Vancouver, BC V6G 1L5",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.2921822,
-               "lng" : -123.1411177
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.29358097989272,
-                  "lng" : -123.1396931201072
-               },
-               "southwest" : {
-                  "lat" : 49.29088132010727,
-                  "lng" : -123.1423927798927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "6a255fc38a916ade12b20dfd35300bc360615749",
-         "name" : "Rosellen Suites At Stanley Park",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 480,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117317646863990349642\"\u003eRosellen Suites at Stanley Park\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAALCxiG3D4Zewxgzls7vdQIPdeP_0F_r0MXTc8hvorsebLVyKqZqRDNDUVt1wPdlAmaWSlf7WK6gQCdd3L5JMHlVgZLbpejioxXbY9_16gvaCfr85aqT9w0wESy8NCABOUEhA1gpT7x-6CvRJ73-6LgHp5GhR40D8xFAbmBNQ6DU_kLNwZvr-a-Q",
-               "width" : 640
-            }
-         ],
-         "place_id" : "ChIJpSHgYe1zhlQRazZ-KvU8Odg",
-         "plus_code" : {
-            "compound_code" : "7VR5+VH Vancouver, British Columbia",
-            "global_code" : "84XR7VR5+VH"
-         },
-         "rating" : 4.2,
-         "reference" : "ChIJpSHgYe1zhlQRazZ-KvU8Odg",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 168
-      },
-      {
-         "formatted_address" : "1154 Gilford St, Vancouver, BC V6G 2P6",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.2885711,
-               "lng" : -123.142681
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.28996322989272,
-                  "lng" : -123.1414000201073
-               },
-               "southwest" : {
-                  "lat" : 49.28726357010728,
-                  "lng" : -123.1440996798927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "a5b4102716658839d6463b5f9eb62839630e0d4b",
-         "name" : "Sylvia Hotel and Restaurant",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3000,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/105444865799829627231\"\u003eJoshua Clements\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA1S4JI9BvLMq1BTpEBSoiblbvg1XAkyMyyc4hihTqPB6lWrMxfZ-KxclaOpN45G4JAtdeSqo8LlMjDRXcFPxiOWCuRARP1d92gPe6Bd8eJXJMFtNj8RD3QN7ejTbrubU2EhDEaZJJC0cUmCtM8IH4x0LdGhSq7gidiBTh1LRTEIFjx2RHZnIyaQ",
-               "width" : 4000
-            }
-         ],
-         "place_id" : "ChIJQxM6DCZyhlQRCMLwTITyWEE",
-         "plus_code" : {
-            "compound_code" : "7VQ4+CW Vancouver, British Columbia",
-            "global_code" : "84XR7VQ4+CW"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJQxM6DCZyhlQRCMLwTITyWEE",
-         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1082
-      },
-      {
-         "formatted_address" : "1000 Burrard St, Vancouver, BC V6Z 2R9",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.280314,
-               "lng" : -123.1264736
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.28162037989272,
-                  "lng" : -123.12419375
-               },
-               "southwest" : {
-                  "lat" : 49.27892072010728,
-                  "lng" : -123.12806515
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "21bee4a1aea37e4098967c2f14f637b5e6acac36",
-         "name" : "Sheraton Vancouver Wall Centre",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 2100,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101227153217952264313\"\u003eSheraton Vancouver Wall Centre\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAnqx2xS5vwZTt1qWprz_0G_-Kd7oD-RjNJE1YXFsbKJ2ElnaBH0FLr-1q0h8HwuO6K5s2qhHX0YCcFiEyoB4YB8AU7HxTcA2PTP8Z__crTaNnbdhVpI1DOmrvdjiMdobNEhCjhg4sJBtNQ6Kasr_ewxxIGhRLdt8f4eiS4xbVbeFgVGrn1CDaLg",
-               "width" : 1400
-            }
-         ],
-         "place_id" : "ChIJ6wwnJtVzhlQRwYCWCmD7kjM",
-         "plus_code" : {
-            "compound_code" : "7VJF+4C Vancouver, British Columbia",
-            "global_code" : "84XR7VJF+4C"
+            "compound_code" : "JJXC+GQ Toronto, Ontario",
+            "global_code" : "87M2JJXC+GQ"
          },
          "rating" : 4.4,
-         "reference" : "ChIJ6wwnJtVzhlQRwYCWCmD7kjM",
+         "reference" : "ChIJG74DgzLL1IkRu7-_ro1TbdY",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 3695
+         "user_ratings_total" : 3543
       },
       {
-         "formatted_address" : "446 W 13th Ave, Vancouver, BC V5Y 1W5",
+         "formatted_address" : "15 Richmond St E, Toronto, ON M5C 1N2",
          "geometry" : {
             "location" : {
-               "lat" : 49.2593089,
-               "lng" : -123.1140997
+               "lat" : 43.6516917,
+               "lng" : -79.3779253
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 49.26073007989273,
-                  "lng" : -123.1127459201073
+                  "lat" : 43.65297547989272,
+                  "lng" : -79.37702987010728
                },
                "southwest" : {
-                  "lat" : 49.25803042010728,
-                  "lng" : -123.1154455798928
+                  "lat" : 43.65027582010728,
+                  "lng" : -79.37972952989271
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "3702e2620870ecd441f94a646460196eea158c1f",
-         "name" : "Cambie Lodge Bed and Breakfast",
+         "id" : "50ad89c323d26a9c1515f4045183d625d6fc877b",
+         "name" : "Cambridge Suites Toronto",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 3120,
+               "height" : 4032,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101582926829958320352\"\u003eSharon\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110626361945231928194\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAccqEwpYkSTSKeAXUW65Uk3AkZpf5_n4RbwfgZh9Zq2ne4BFjbAUYB-vj3txgSQU7EcrglkhDLYHIdcKJgx6skrM871ZTp3OBnh0Jbk8ihh6lIQKBjVQqEpSyGIp-u3_bEhDSF30UJkpRs6EC0VfN9RSQGhSeZx9Uz30iMi0qFWiIaIJoOk-bHQ",
-               "width" : 4160
+               "photo_reference" : "CmRaAAAAooJmRhEMEOVe8J3mrdBLw7W1GHzn05YNRw_thuD4OH7gwt9Xzyd4REuk8lgaWsmQy4T6gTyZi_Mhw8fPjux-Aaf11FP_UkXMDWpICR1CbespgY0F2cu84wBA5wCIk2IhEhAyuleFtFDRwHryKeJsdZtUGhR2FqiaQN5yiymaC8ZKRuY3CtpVaQ",
+               "width" : 3024
             }
          ],
-         "place_id" : "ChIJb-ofKeZzhlQRizCscOIjnoA",
+         "place_id" : "ChIJzwA3DzPL1IkRPnA8d72WVyQ",
          "plus_code" : {
-            "compound_code" : "7V5P+P9 Vancouver, British Columbia",
-            "global_code" : "84XR7V5P+P9"
+            "compound_code" : "MJ2C+MR Toronto, Ontario",
+            "global_code" : "87M2MJ2C+MR"
          },
          "rating" : 4.2,
-         "reference" : "ChIJb-ofKeZzhlQRizCscOIjnoA",
+         "reference" : "ChIJzwA3DzPL1IkRPnA8d72WVyQ",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 40
+         "user_ratings_total" : 998
       },
       {
-         "formatted_address" : "1253 Johnston St, Vancouver, BC V6H 3R9",
+         "formatted_address" : "75 Lower Simcoe St, Toronto, ON M5J 3A6",
          "geometry" : {
             "location" : {
-               "lat" : 49.2692773,
-               "lng" : -123.1309526
+               "lat" : 43.6428819,
+               "lng" : -79.3839491
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 49.27068122989272,
-                  "lng" : -123.1300275701073
+                  "lat" : 43.64433827989272,
+                  "lng" : -79.38278017010728
                },
                "southwest" : {
-                  "lat" : 49.26798157010728,
-                  "lng" : -123.1327272298928
+                  "lat" : 43.64163862010728,
+                  "lng" : -79.38547982989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "95212256c2dbcca9a6ee816206fcc0779b7c98f0",
-         "name" : "Granville Island Hotel",
+         "id" : "293f71907e755a966977397698b992f4ca0bb557",
+         "name" : "Delta Hotels by Marriott Toronto",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 1067,
+               "height" : 1366,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/118416114288354856922\"\u003eGranville Island Hotel\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107233271373721392683\"\u003eDelta Toronto\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAMQrps-BZ7u84DUnecbxXl3OuAPU_NocSjoLkULtSfSHKKWuJGfKLQaM-Ltli175HsIVd_arFnwwVMUF55SGDMGDcXXB-lM_a7QJjel-6nEE9S0KkgZWjDroS6viiwK0zEhD-ffcjqBmV-1HSvK5QnEX5GhTIpVJCJ8Ws1bwC5lIRZJ98j0JPmg",
-               "width" : 1600
-            }
-         ],
-         "place_id" : "ChIJP6I2o89zhlQRSkYvDZwd_a4",
-         "plus_code" : {
-            "compound_code" : "7V99+PJ Vancouver, British Columbia",
-            "global_code" : "84XR7V99+PJ"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJP6I2o89zhlQRSkYvDZwd_a4",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 476
-      },
-      {
-         "formatted_address" : "2159 W 21st Ave, Vancouver, BC V6L 1J2",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.253694,
-               "lng" : -123.1547691
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.25496132989272,
-                  "lng" : -123.1534226701072
-               },
-               "southwest" : {
-                  "lat" : 49.25226167010728,
-                  "lng" : -123.1561223298927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "848a77f2d58d4c075db543ecd462c8351d4926db",
-         "name" : "Vancouver Traveller Bed and Breakfast",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1365,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/105959012780241024047\"\u003eVancouver Traveller Bed and Breakfast\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAp0_u4sQ59Ip4eSRxwJcwWR56zRR66JmVTzFYle2ANz2EEusYvulqzdeV1Y63DNCjTyOrtV_1Gon2ztLIS6C2BI6sWGcCnH4_wW62mEbqxx-VErmNVteV4doL-xrBv9c6EhCv-A-lGz17fd6Z590AK8-nGhRx2-PtWTQCnmqnbZuT-I9Bx6prBw",
+               "photo_reference" : "CmRaAAAAT5lqbo9wvY_Gc3JH5YnBS8zGrevcTNlcSzRtZd26w9DZh0IS20ddpkfMZlecA1wUWhS73hh_FPUdZ_DPUot91cppYA7tOlYBwjGD0ULxLOVrTZn2m9pSRfWlUycCsQSDEhBGBXjQKHdPolReQ1M1YRgaGhQyyu-_upWsTcTImG5HGp5XEOOssw",
                "width" : 2048
             }
          ],
-         "place_id" : "ChIJaWOBv6NzhlQREFIwla0qL9Q",
+         "place_id" : "ChIJuYrhUdQ0K4gRUSw-PfCMWac",
          "plus_code" : {
-            "compound_code" : "7R3W+F3 Vancouver, British Columbia",
-            "global_code" : "84XR7R3W+F3"
-         },
-         "rating" : 4.9,
-         "reference" : "ChIJaWOBv6NzhlQREFIwla0qL9Q",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 22
-      },
-      {
-         "formatted_address" : "322 Davie St, Vancouver, BC V6B 5Z6",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.2746307,
-               "lng" : -123.1225589
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.27598482989272,
-                  "lng" : -123.1211290701073
-               },
-               "southwest" : {
-                  "lat" : 49.27328517010728,
-                  "lng" : -123.1238287298927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "d2ab5e542d1ab8944cf5173665239289883fdd43",
-         "name" : "OPUS Vancouver",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3679,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/113471843899054737985\"\u003eOPUS Hotel Vancouver\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAd1wN6Om5smp90RXPqGiTVJNg_HCrBdT3yHqhP7yEsdPRG4deEjcv-b2MsyLMuFSjm-q0EzfkfWFMipJaOeB70zKpCJRSmPRYUOlLLvVLeVKDXQpyqSNZSZ1GxHKlF3jgEhCa8eS5Kr1488uJVDvMjK1sGhRIk6Rb0_M_Ixyo0xfM1Z9xRhKxHQ",
-               "width" : 4534
-            }
-         ],
-         "place_id" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
-         "plus_code" : {
-            "compound_code" : "7VFG+VX Vancouver, British Columbia",
-            "global_code" : "84XR7VFG+VX"
+            "compound_code" : "JJV8+5C Toronto, Ontario",
+            "global_code" : "87M2JJV8+5C"
          },
          "rating" : 4.6,
-         "reference" : "ChIJkYNgwtZzhlQRDyKMepVlARQ",
+         "reference" : "ChIJuYrhUdQ0K4gRUSw-PfCMWac",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3381
+      },
+      {
+         "formatted_address" : "255 Wellington St W, Toronto, ON M5V 3P9",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6447518,
+               "lng" : -79.3907274
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64621232989271,
+                  "lng" : -79.38933742010728
+               },
+               "southwest" : {
+                  "lat" : 43.64351267010727,
+                  "lng" : -79.39203707989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "558215394ba766f7b0ac4b7926d7f218a40f5b80",
+         "name" : "Residence Inn by Marriott Toronto Downtown/Entertainment District",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102901071539162636705\"\u003eRachel Krueger\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ6uAG7KbW1khGPK78vUlxCIfCqGB8dJGQCfwrHEcixIBbs2k2VlWa2RodQ-HcUgTtK-mpFSKgYKao6Dpi30JgvTO3YGWqp3Z83GarSf5JaSvoVejzxowW5GJwSGXJbinEhAeb1DF-So4MXntTzlh6HUgGhRQU-4kgoTC83U9knbM_pOKrAAjmQ",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRQoITNc0K4gRMBoATwPJLYs",
+         "plus_code" : {
+            "compound_code" : "JJV5+WP Toronto, Ontario",
+            "global_code" : "87M2JJV5+WP"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJRQoITNc0K4gRMBoATwPJLYs",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1678
+      },
+      {
+         "formatted_address" : "9 Old Mill Rd, Etobicoke, ON M8X 1G5",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6508975,
+               "lng" : -79.4928395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65237952989273,
+                  "lng" : -79.49148327010727
+               },
+               "southwest" : {
+                  "lat" : 43.64967987010728,
+                  "lng" : -79.49418292989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "009c5dc2605c605781032e8238f11dd844f95e46",
+         "name" : "Old Mill Toronto Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2480,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107524121520887269607\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMSan_o22SVD1UYnpChMMARDStU0dEOBePRxkEKegjve99UYlE3sa7TSdXu4ec-y1EWR3XEt6rObK-uVL0hqk_awAV5U3IlgUInggj6GUNxT5u88BsuU0xz7ww2oxFZa8EhDO6Bf_PfTz_-3BZKSAMFH8GhT_jd6rhw8wIEIf3T9_YUlBMHrFjw",
+               "width" : 2880
+            }
+         ],
+         "place_id" : "ChIJh2leSPU2K4gRyl33gw24rxQ",
+         "plus_code" : {
+            "compound_code" : "MG24+9V Etobicoke, Toronto, ON",
+            "global_code" : "87M2MG24+9V"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJh2leSPU2K4gRyl33gw24rxQ",
          "types" : [
+            "night_club",
+            "spa",
             "lodging",
             "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3207
+      },
+      {
+         "formatted_address" : "60 York St, Toronto, ON M5J 1S8",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.64625849999999,
+               "lng" : -79.3831595
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64763902989272,
+                  "lng" : -79.38167182010729
+               },
+               "southwest" : {
+                  "lat" : 43.64493937010727,
+                  "lng" : -79.38437147989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "6689a7e4ad1b82ec51d0fc66a0007fe1fae2de50",
+         "name" : "The Strathcona Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 680,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118122271902262814698\"\u003eThe Strathcona Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYxpbkTjHJCFHJ0PFR-AyuAQusaWy8FVcxH_fK_sNvShcZAOWsl_u59mNTl6zNBQPMDUUAVylhZz4VcCm08Z2S7TNssNRKbeMlOeXZQTuxT88la5ab2ZuuMlH7M1BjR4lEhDHV3s3k7dfGQjJ2LRuBdQiGhRt7tsWw4OXz38tvLofTUBJX8nThw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ9YfQANM0K4gRCaW92B6kLzg",
+         "plus_code" : {
+            "compound_code" : "JJW8+GP Toronto, Ontario",
+            "global_code" : "87M2JJW8+GP"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ9YfQANM0K4gRCaW92B6kLzg",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1548
+      },
+      {
+         "formatted_address" : "1150 Queen St W, Toronto, ON M6J 1J3",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6432048,
+               "lng" : -79.42463769999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64446757989272,
+                  "lng" : -79.42325982010728
+               },
+               "southwest" : {
+                  "lat" : 43.64176792010727,
+                  "lng" : -79.42595947989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e6be679746f82a181cf3d0d685d66983cc758145",
+         "name" : "The Drake Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 680,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107996712493642607766\"\u003eThe Drake Hotel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYDmvhop9nmiUb3knk4ePaDPYfwr92vqYqjMJg6ikp_YmkrqMhSDQZJK_Td8npKxSfEoAD7iHRUaYWNO7YvWAJv_bS8VuQR8OlttadM5cetMxM-u0hy4ciAFjELP_nMt8EhB-RlCq8phKYi1GKgepDj6qGhR_AwFfGaIWaAcpotMkDx_UOzLDNw",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJ8b_aGgA1K4gR3n2TF4fM1Es",
+         "plus_code" : {
+            "compound_code" : "JHVG+74 Toronto, Ontario",
+            "global_code" : "87M2JHVG+74"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ8b_aGgA1K4gR3n2TF4fM1Es",
+         "types" : [
             "restaurant",
+            "lodging",
+            "bar",
             "food",
             "point_of_interest",
             "establishment"
          ],
-         "user_ratings_total" : 453
+         "user_ratings_total" : 4252
       },
       {
-         "formatted_address" : "1100 Burrard St, Vancouver, BC V6Z 1Y7",
+         "formatted_address" : "5503 Eglinton Ave W, Etobicoke, ON M9C 5K5",
          "geometry" : {
             "location" : {
-               "lat" : 49.2798715,
-               "lng" : -123.1274389
+               "lat" : 43.653043,
+               "lng" : -79.6005931
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 49.28131627989273,
-                  "lng" : -123.1262365201073
+                  "lat" : 43.65446072989273,
+                  "lng" : -79.59935587010727
                },
                "southwest" : {
-                  "lat" : 49.27861662010728,
-                  "lng" : -123.1289361798927
+                  "lat" : 43.65176107010728,
+                  "lng" : -79.60205552989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "c6bfe09fa04cf8fb9d30df68385f02eb58b42085",
-         "name" : "The Burrard",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 608,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/116310682100205820960\"\u003eThe Burrard\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAI6enMGT87R8zVUk2hj8LIsjqhvILAP_su5-g_SBlyFnRKffTO9cWj3R88E1wq9jrexlRnJujIZ4t8EGcHpdW1OCKAP2T3P-nrBoBQBRxc1Awcv22yA9W2p88upMa_0FFEhDFOF0Fh77M7GnJufaxQ-ENGhSyQZ8xUj97E9isirOAxGWsWyB3BA",
-               "width" : 1080
-            }
-         ],
-         "place_id" : "ChIJlURm3NRzhlQRUgBdGn2MvDU",
-         "plus_code" : {
-            "compound_code" : "7VHF+W2 Vancouver, British Columbia",
-            "global_code" : "84XR7VHF+W2"
-         },
-         "rating" : 4.4,
-         "reference" : "ChIJlURm3NRzhlQRUgBdGn2MvDU",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 473
-      },
-      {
-         "formatted_address" : "5961 Student Union Blvd, Vancouver, BC V6T 2C9",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.269461,
-               "lng" : -123.2486436
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.27073947989272,
-                  "lng" : -123.2472355201073
-               },
-               "southwest" : {
-                  "lat" : 49.26803982010728,
-                  "lng" : -123.2499351798927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "9f977ee71f7d092f20663299c0221ba58c0efc8c",
-         "name" : "West Coast Suites at UBC",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1920,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/113761718233634519778\"\u003eWest Coast Suites at UBC\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAADt0EqTg6lWYl2VmP2-jmkRSqQNsuQMduR6XW6h8FDbOJUzXloj8AI3piqfq38mTuQBRrqfSHiNZhNQ1wAQAWjtxWBDDsIjBPGaDnoh8CsY5vJ8eKOf4Vn4wvRKupvXtmEhDa8W_x0wA4cEpprIBD7qIPGhQcZIw9UbQVboQ4n30mlTo5OqJ1LA",
-               "width" : 2560
-            }
-         ],
-         "place_id" : "ChIJV0p8WLdyhlQRhIQSy4D_B5I",
-         "plus_code" : {
-            "compound_code" : "7Q92+QG Vancouver, British Columbia",
-            "global_code" : "84XR7Q92+QG"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJV0p8WLdyhlQRhIQSy4D_B5I",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 121
-      },
-      {
-         "formatted_address" : "550 W Hastings St, Vancouver, BC V6B 1L6",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.284105,
-               "lng" : -123.1128696
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.28540147989273,
-                  "lng" : -123.1115134201073
-               },
-               "southwest" : {
-                  "lat" : 49.28270182010728,
-                  "lng" : -123.1142130798927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "46c2cae1b5a8949fb3527fd416f191e5e6b8d961",
-         "name" : "Delta Hotels by Marriott Vancouver Downtown Suites",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3024,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106212953415094195526\"\u003eTeresa Rosa\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAityYBfT01uPX2XZKCRzOuSiwrSIv4bQvJySqr-H8huJV81Q-nnO8K5mna-EqyGHHfGxJc9fpZSgHz8ZWO7b5kc2KauhlQ1YjSFKhl-LdrFx9ljZPsu46ySBwjrHz45nKEhDq-PyucZBBDaAuzU-aAkUMGhTCCZx25L0SEVSTlBqBONN-MsrZKA",
-               "width" : 4032
-            }
-         ],
-         "place_id" : "ChIJA6OT9XhxhlQRtz8gZhvDAlg",
-         "plus_code" : {
-            "compound_code" : "7VMP+JV Vancouver, British Columbia",
-            "global_code" : "84XR7VMP+JV"
-         },
-         "rating" : 4.5,
-         "reference" : "ChIJA6OT9XhxhlQRtz8gZhvDAlg",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1089
-      },
-      {
-         "formatted_address" : "205 Kingsway, Vancouver, BC V5T 3J5",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.26177,
-               "lng" : -123.098082
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.26307782989272,
-                  "lng" : -123.0968355201073
-               },
-               "southwest" : {
-                  "lat" : 49.26037817010727,
-                  "lng" : -123.0995351798928
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "25e0bd10f38e7a5e27eaef796a5a115e903c0210",
-         "name" : "Best Western Plus Uptown Hotel",
+         "id" : "ea86e13e40067ab04ead4adea3a7bbf9bd9f1808",
+         "name" : "Best Western Plus Travel Hotel Toronto Airport",
          "opening_hours" : {
             "open_now" : true
          },
@@ -697,197 +616,285 @@
             {
                "height" : 2160,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117695252017753106567\"\u003eBEST WESTERN PLUS Uptown Hotel\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101968410422399269721\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAhq6FEBhOKRXHUb3DFrUGnzh0OL8P8v4hVnsEbc3UZgI3U9V3ZPKu0bFrAVK6aDtgW1kMx1L-nbMVjciioXFQVXtqkjPXkpm2781VE4PDJ_inb7UD3jP_mZcMPz8FwxO2EhCsv-dTKnZaLEZ3CRiaOdTwGhQlBEIGaZc7hQzyv-JeeTd4QFRk6w",
+               "photo_reference" : "CmRaAAAAc9WztssY4XBcdQ0ddGpR6FTqMTLM2UEuecksEYx_e6aMx07pAiDAMI1GlDg41O4ekU84qF6QPXpjphLfy3Pc3RlXgwTnKiLB9M2_xnPNPm9_t5q8b-ZFd0Ytr4jDRiEBEhBfW3I6Cruec3ZwPDDr8urlGhRX9XRON6wvijlceCQfZgQbsB2DUQ",
                "width" : 3840
             }
          ],
-         "place_id" : "ChIJ7xvjAeJzhlQRU6P7gw36NKA",
+         "place_id" : "ChIJKwsd51Y4K4gRFcNDKffT2P8",
          "plus_code" : {
-            "compound_code" : "7W62+PQ Vancouver, British Columbia",
-            "global_code" : "84XR7W62+PQ"
+            "compound_code" : "M93X+6Q Etobicoke, Toronto, ON",
+            "global_code" : "87M2M93X+6Q"
          },
-         "rating" : 4,
-         "reference" : "ChIJ7xvjAeJzhlQRU6P7gw36NKA",
+         "rating" : 4.2,
+         "reference" : "ChIJKwsd51Y4K4gRFcNDKffT2P8",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 772
+         "user_ratings_total" : 939
       },
       {
-         "formatted_address" : "900 W Georgia St, Vancouver, BC V6C 2W6",
+         "formatted_address" : "135 Carlingview Dr, Etobicoke, ON M9W 5E7",
          "geometry" : {
             "location" : {
-               "lat" : 49.2837928,
-               "lng" : -123.1209888
+               "lat" : 43.678962,
+               "lng" : -79.59119799999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 49.28508437989272,
-                  "lng" : -123.1196761701073
+                  "lat" : 43.68053497989272,
+                  "lng" : -79.58988012010727
                },
                "southwest" : {
-                  "lat" : 49.28238472010728,
-                  "lng" : -123.1223758298927
+                  "lat" : 43.67783532010728,
+                  "lng" : -79.59257977989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "064dc293c1ea306e75d2274cbfc1f96f28bb7a52",
-         "name" : "Fairmont Hotel Vancouver",
+         "id" : "99579e90a14ef396181b2657794cbe374cc45c80",
+         "name" : "Best Western Premier Toronto Airport Carlingview Hotel",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 3000,
+               "height" : 2160,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/116749430061067994858\"\u003eThe Fairmont Hotel Vancouver\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103552332832419122675\"\u003eBest Western Premier Toronto Airport Carlingview Hotel\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAhxMSP-6GRFuqX3jDa0JfZchh1Unia5VKyFwseFgL4oiw_c3nnjxLmRPvPGLP8Q56jwjz4eJBLm5dKmgxuyuPHz4S9Ze9GSbaNmsQPkQetF47VjAOK5xeUgtyBd1Q0IKgEhB7cTX8CTEmkXuc8D8eB4yuGhSXzwCppFBzN-84PXXaUBFIQW247Q",
-               "width" : 2000
+               "photo_reference" : "CmRaAAAAWR5IaFxzKPCmJrlClZWshU1BKW6WPg75OtInBFj56XTAKC9TuAJhDXGomLu0FIQ-3-Aq9h5Bx6E2R24Bp91c6tc76nTZrGrT9j9l7z4f9C-Hc8InqNkqfsTzpR5b98wOEhDMRocSxRdyYPQwNtmMoTQCGhRWJ_7KXtv8D9h6uGsZ1BIkagtPYA",
+               "width" : 3840
             }
          ],
-         "place_id" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
+         "place_id" : "ChIJ48JOy5c5K4gR7d9dks9t-n4",
          "plus_code" : {
-            "compound_code" : "7VMH+GJ Vancouver, British Columbia",
-            "global_code" : "84XR7VMH+GJ"
-         },
-         "rating" : 4.5,
-         "reference" : "ChIJHbH93TGoqEwRMwrQGCOk9B4",
-         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 3858
-      },
-      {
-         "formatted_address" : "577 Richards St, Vancouver, BC V6B 2Z5",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.2826575,
-               "lng" : -123.1142031
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.28397652989272,
-                  "lng" : -123.1128073201073
-               },
-               "southwest" : {
-                  "lat" : 49.28127687010728,
-                  "lng" : -123.1155069798927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "5a5944d4ea5933bee20595d1adbca6192571a29c",
-         "name" : "St Clair Hotel-Hostel Vancouver",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 472,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115660225906143531519\"\u003eSt Clair Hotel - Hostel\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAaiYminPJ16KxOI7ylDgTU5UlZ84Sl-0ExsLAMncxg-zotFkdcf-T8tIEV2r3qxEz03zDq5paF_vhmLg0izE88l5vH_3ogfXtPUoUfX9_ZIsCWKr1uDrYCJ8p4VKBJOLgEhAMWR1Wh6XHAmuW40iZJioyGhRgDfkDKtc0ek_9FgTyzaj5iJEb9A",
-               "width" : 1005
-            }
-         ],
-         "place_id" : "ChIJn54q2HhxhlQRg1AMN8IXgYM",
-         "plus_code" : {
-            "compound_code" : "7VMP+38 Vancouver, British Columbia",
-            "global_code" : "84XR7VMP+38"
-         },
-         "rating" : 3.8,
-         "reference" : "ChIJn54q2HhxhlQRg1AMN8IXgYM",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 267
-      },
-      {
-         "formatted_address" : "2075 West Mall, Vancouver, BC V6T 1Z2",
-         "geometry" : {
-            "location" : {
-               "lat" : 49.2638419,
-               "lng" : -123.2553794
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 49.26526507989273,
-                  "lng" : -123.2538388701073
-               },
-               "southwest" : {
-                  "lat" : 49.26256542010729,
-                  "lng" : -123.2565385298927
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "3297dd4ff6041a35d7f6c303f82489a49efb9a8c",
-         "name" : "Ponderosa Studios",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 660,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/102412122864327006820\"\u003ePonderosa Studios\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAeIdvmdscOzAA2_5Co67faNNJjPaNuOfl-1p-uCIm6wzZytAlbVILDABH8uVIvt6vQOH31o9QL0XIZ0qG9w94Gt1HDH8Q6FUkHg9BN2T-IEXt3jESW9DmKVkGEQk0dA1OEhDpneuthhERonvmhJy6EDO9GhRVziSMRKEOAs9nBz8I-Ea4brt-Yg",
-               "width" : 1170
-            }
-         ],
-         "place_id" : "ChIJdR1VurVyhlQRxIgoMsy4kbg",
-         "plus_code" : {
-            "compound_code" : "7P7V+GR Vancouver, British Columbia",
-            "global_code" : "84XR7P7V+GR"
+            "compound_code" : "MCH5+HG Etobicoke, Toronto, ON",
+            "global_code" : "87M2MCH5+HG"
          },
          "rating" : 4.1,
-         "reference" : "ChIJdR1VurVyhlQRxIgoMsy4kbg",
+         "reference" : "ChIJ48JOy5c5K4gR7d9dks9t-n4",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 110
+         "user_ratings_total" : 889
       },
       {
-         "formatted_address" : "900 Canada Pl, Vancouver, BC V6C 3L5",
+         "formatted_address" : "33 Gerrard St W, Toronto, ON M5G 1Z4",
          "geometry" : {
             "location" : {
-               "lat" : 49.28716480000001,
-               "lng" : -123.1138462
+               "lat" : 43.6584976,
+               "lng" : -79.3830973
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 49.28872342989272,
-                  "lng" : -123.1123280701073
+                  "lat" : 43.65968952989272,
+                  "lng" : -79.38206687010727
                },
                "southwest" : {
-                  "lat" : 49.28602377010728,
-                  "lng" : -123.1150277298927
+                  "lat" : 43.65698987010728,
+                  "lng" : -79.38476652989272
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "710dd64c04b1241487134988f72ecc662570a1a6",
-         "name" : "Hotel Fairmont Waterfront",
+         "id" : "f6e7e438a9e06e8c68feafb8954cf9944ded8484",
+         "name" : "CHELSEA HOTEL, TORONTO",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 2000,
+               "height" : 1192,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115671232273049393360\"\u003eA Google User\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102399222813123601621\"\u003eEaton Chelsea, Toronto\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAOqqHcTGMUq_5Hg8vaOWWhvkQ1SNeXMzrCqaHH0S0wFY3BDDF24V-SeajC21J1bghfHf4g2AbR0vJRgHcibO2qoVa0H30pv8l5d3SmCcnN9Eha0ACy6sz9dnKnZhcc0sKEhBDskPnru14z5KAKAV8LPicGhSh8TILwjiJfHPyZh_-IOxoyPJScw",
+               "photo_reference" : "CmRaAAAAgrckUbLMu3Ndk4NUhN9FeQvRS5yZXOeC9GeddUock3_QmhnC8auEN6z0Ttv4u9BpFlnBKeHCu579A3SmGsS3Viy2RvnAhPn_HZ-7RogTFN8H8Z0NUP7kgMF4IkY2mSROEhCnGKl8A5N-XRm4gXYuiPjQGhSEj5bERhN-UiGrH9gUujxYGia2pg",
+               "width" : 2119
+            }
+         ],
+         "place_id" : "ChIJ1aqIf7U0K4gRqQZZxRiNv6k",
+         "plus_code" : {
+            "compound_code" : "MJ58+9Q Toronto, Ontario",
+            "global_code" : "87M2MJ58+9Q"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJ1aqIf7U0K4gRqQZZxRiNv6k",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8282
+      },
+      {
+         "formatted_address" : "5515 Eglinton Ave W, Toronto, ON M9C 5K5",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6518711,
+               "lng" : -79.60120549999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65309892989272,
+                  "lng" : -79.60002602010728
+               },
+               "southwest" : {
+                  "lat" : 43.65039927010728,
+                  "lng" : -79.60272567989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "ed771367ad17b6c720e4649455bf63914b60a173",
+         "name" : "Hampton Inn by Hilton Toronto Airport Corporate Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1500,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107091985356099027373\"\u003eHampton Inn by Hilton Toronto Airport\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0Seo3EWKG5utJR2BFpipgO1CsIWJPU2zG7CesCu4hLatggjMqI1wT7rUkxk9-5u3CWQ6-MvaoPqiDgVk8z4AQ_oyIH3HYmmxqjZToLwJLmZH-gZUzR2EFjKT3nsoODV2EhAjR263RJoutoFjnJ8Bpnk8GhQhhByHPp4NwxlazX3Ed7eSy8_eOg",
+               "width" : 2250
+            }
+         ],
+         "place_id" : "ChIJRQjmBFc4K4gRuUuYs1Hc4Pc",
+         "plus_code" : {
+            "compound_code" : "M92X+PG Toronto, Ontario",
+            "global_code" : "87M2M92X+PG"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJRQjmBFc4K4gRuUuYs1Hc4Pc",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 767
+      },
+      {
+         "formatted_address" : "100 Front St W, Toronto, ON M5J 1E3",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6460303,
+               "lng" : -79.381388
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64716662989272,
+                  "lng" : -79.37995217010727
+               },
+               "southwest" : {
+                  "lat" : 43.64446697010728,
+                  "lng" : -79.38265182989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "3332d78d3ce91fdbd694f33337b0b8a12266571e",
+         "name" : "Hotel Fairmont Royal York",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115530272729752155231\"\u003eFairmont Royal York\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA94d8JUoIE6DlUgaEFNb2rUj1ApZQZxbIwfDHRmN2vGzljXijluJbny7y1kPNpqw0zUKCrq2Ju9XOVngnTnbEgnR9mMYuo1kD-tdQWkhA_sqsZM2LWM02XTdzkCuqX2tLEhCM2bfpRKO0G46kxG04HPNHGhSDEFGF98Vhv0DZFmwLGOsFc-KJsA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJYY4qFdM0K4gRDydzDiP-VAE",
+         "plus_code" : {
+            "compound_code" : "JJW9+CC Toronto, Ontario",
+            "global_code" : "87M2JJW9+CC"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJYY4qFdM0K4gRDydzDiP-VAE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8212
+      },
+      {
+         "formatted_address" : "249 Queen's Quay West, Toronto, ON M5J 2N5",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6388472,
+               "lng" : -79.3855839
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64019702989272,
+                  "lng" : -79.38423407010728
+               },
+               "southwest" : {
+                  "lat" : 43.63749737010727,
+                  "lng" : -79.38693372989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "28ef307034f9e009d1403a02a686507c0f15b587",
+         "name" : "Radisson Admiral Hotel Toronto-Harbourfront",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1192,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109820546866711716847\"\u003eRadisson Hotel Admiral Toronto-Harbourfront\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAAJPvBzDGD2U6iT-Z2XuJ05-O94JdPVmP3i_NuVEkikiisuA862FF-2szz82uqHigz9KfrFp93CS1pSORjilywZ3BUhTcAjoZ3Nu0Uvtty_N4lTs15cIoOe0ZZweGJfbobEhDdH7IWrzFSko1MdqPxAg5wGhT1NbyPUdmg2iurDOCIyOpJqjQNrg",
+               "width" : 2119
+            }
+         ],
+         "place_id" : "ChIJX-YHICo1K4gR1SQ3P5SL7EI",
+         "plus_code" : {
+            "compound_code" : "JJQ7+GQ Toronto, Ontario",
+            "global_code" : "87M2JJQ7+GQ"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJX-YHICo1K4gR1SQ3P5SL7EI",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1566
+      },
+      {
+         "formatted_address" : "80 Blue Jays Way, Toronto, ON M5V 2G3",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.645542,
+               "lng" : -79.3924155
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64692157989273,
+                  "lng" : -79.39094297010728
+               },
+               "southwest" : {
+                  "lat" : 43.64422192010728,
+                  "lng" : -79.39364262989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "a23bab426ecec11103e09c0502b3f5264e44568b",
+         "name" : "Bisha Hotel Toronto",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2642,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114520858891798120128\"\u003eBisha Hotel and Residences\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAq9Aaq19ORIzGEx4u7qYErOf7GM61w3-39QnDsuqip8QPipOeUnKPLM9YVskp0R7lqthlhsNClPe1RCbJcQqxiXpdlZnNVvPmLd0HindkEGjSeQCHCzlF0ENXiT7bD5zyEhCBNDOc6GbNBivIhYLTz2HJGhQz1z-fdxOmFuCa2Gg5CItfRZ1u4A",
                "width" : 3000
             }
          ],
-         "place_id" : "ChIJDXoq6oJxhlQRew8O_6dS7as",
+         "place_id" : "ChIJiTuiAto0K4gRcsMSKhnVjVw",
          "plus_code" : {
-            "compound_code" : "7VPP+VF Vancouver, British Columbia",
-            "global_code" : "84XR7VPP+VF"
+            "compound_code" : "JJW5+62 Toronto, Ontario",
+            "global_code" : "87M2JJW5+62"
          },
          "rating" : 4.5,
-         "reference" : "ChIJDXoq6oJxhlQRew8O_6dS7as",
+         "reference" : "ChIJiTuiAto0K4gRcsMSKhnVjVw",
          "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 2635
+         "user_ratings_total" : 865
       }
    ],
    "status" : "OK"

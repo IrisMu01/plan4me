@@ -1,12 +1,7 @@
 from django.contrib import admin
-from .models import Poi, PoiType, Event, Location, SearchReq
+from .models import Poi, PoiType, Event, Location
 
 # Register your models here.
-
-@admin.register(SearchReq)
-class SearchReqAdmin(admin.ModelAdmin):
-    list_display = ('city', 'date_from', 'date_to', 'min_budget', 'max_budget', 'keywords')
-    fields = ['city', ('date_from', 'date_to'), ('min_budget', 'max_budget'), 'keywords']
 
 # register the admin class with the associated model
 @admin.register(Poi)
