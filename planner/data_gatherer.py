@@ -99,11 +99,12 @@ class DataGatherer:
             data.rating = entry["rating"]
             data.ratingCount = entry["user_ratings_total"]
             data.location = Location(city=city, country='canada')
+            
             data.location.save()
             data.placeType.save()
             data.save()
         
-        
+        #print(Poi.objects.all())
         #save data to file
         with open(f"{keywords}_data.json", "w", encoding="utf-8") as datafile:
             datafile.write(places_data.text)
