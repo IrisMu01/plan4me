@@ -1,51 +1,7 @@
 {
    "html_attributions" : [],
-   "next_page_token" : "CpQCCAEAANof-hHy9_Is4hTyrqYd_be72xsojOM2j_OiuZQkUW8Oml2AP4kNIWGStdjmGuHjuEVQ2mxmYwwk6aGPcdfuu6VU56lL0miXIyQ3nYT_HJB33yMfQOilqSuV2GkDHJymc_QlHk7AK_D_Bpr3YKVWMKe_fPTWBJBbZorKIn8alXZT3EmZakESIQegqlgJhBGcT1F79JrQPRpgzR5Prqvf1uOkC8B39Vt8BLzRRe_sUpHEa3pfyhHTo_liAYYicIbLO_u9lENOnK7R1rpr1qw-v_tzAlpWQgGDcFMPBWvq6Vy4xCtfb4ixJHtleg62oS9oTdm3H320No2WH48LlPtmF9pEBcGFQyv6kTBfOlOIAaulEhBUNd7GpER5M1-vQ4dmvmp1GhRCF7u2yrSJERpOOHtyD7lrW9Sstg",
+   "next_page_token" : "CpQCCAEAABNL8RSxhQaJP7Ss0W2DKr9OeP12OczdgqySJvAM8Lh_5ySj92flCHZ7D2ds0PWdUUlTd3vVO2KAPhaJY2u-f7u8uLS4AFoOqNbh3h04hplFmsNA-l8mkZ3TalB_j7nFRXEklXIrDE0qln5vdeBkaOOmPfw8rG8gDIcoORS-yraRlrxNN-LDX_533jUF9eWYh0TR_jVk06wVitfhdTT5NJTo2R4rGddDXomefP7cp-RplHa-5XjVWH0tQ3EmP9T7FEAStWODajEQnZOKyH10F8-st18UbVgFc4H6RT3lQ8Ppf1sbuZQujq8RphIHjlL4IyCNyJI2r5JhmtM2vMQ980xfAIw-6IPSYr6DrWjTsJ50EhA1WFXA9CJvmc1fraUXhlrtGhSAS7v2vDLGRH0Yu__ceCrZPDP77g",
    "results" : [
-      {
-         "formatted_address" : "925 Dixon Rd, Toronto, ON M9W 1J8",
-         "geometry" : {
-            "location" : {
-               "lat" : 43.6861357,
-               "lng" : -79.59633219999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 43.68739112989272,
-                  "lng" : -79.59498237010727
-               },
-               "southwest" : {
-                  "lat" : 43.68469147010727,
-                  "lng" : -79.59768202989271
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "44c9dead216cf916976d75c8f41ca4a33358b4c4",
-         "name" : "DoubleTree by Hilton Toronto Airport",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 3000,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110034316827364384211\"\u003eA Google User\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA78LkTR46Rqu37-ZLBwXALLpKb4Mk0KcXsF4BuILtqMHcnH1U-poQ3DVrgY_Swrtl45pJgFqUMX0gCHrccr-Jlp785o3gWDTT0fAfVEBNpP_EkkRGDEXTSGU1gRow-9xzEhBnzRrH7CPpjLvDF9IntBjlGhRuizB1XP3ZRTc3FMijiPGsr360Dg",
-               "width" : 4500
-            }
-         ],
-         "place_id" : "ChIJ3Voy5Zo5K4gRkuQFpSVhrPE",
-         "plus_code" : {
-            "compound_code" : "MCP3+FF Toronto, Ontario",
-            "global_code" : "87M2MCP3+FF"
-         },
-         "rating" : 4.2,
-         "reference" : "ChIJ3Voy5Zo5K4gRkuQFpSVhrPE",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 898
-      },
       {
          "formatted_address" : "26 Gerrard St E, Toronto, ON M5B 1G3",
          "geometry" : {
@@ -76,7 +32,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/117222307316478736147\"\u003eThe Saint James Hotel\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAX42EFufPwj0poGnxI2vJeU8Cf_iC3qafybBYRtqSPm6URFv_ybZR-Zo13PbecZE_k2kzDrXKDdxvkch3N-zzXlXA0Az39k_qKM6NhmkuY86bbzY5kjJFSBV_AERQfqPUEhAuJiaBMEuBtvle9fJp8JywGhQnXT2f1no8rPleoDe2zhxuuKGZzQ",
+               "photo_reference" : "CmRaAAAAmhyjJc1eD4v1xFDIcyPQuO1Lye7957teAXKUlWIyWAyAdhL9IUnqwfMBthUsavBIm14EmEoBQxNsh8FchBrv74L8iKqYxcRTxF37eyTENxMtUSTm14AxQAXDLLujqqwBEhCUzuJc4l0fBBUx4vdY-GxqGhQQxEhGAvVDpg2rCzrwUWxjURuiLw",
                "width" : 2048
             }
          ],
@@ -120,7 +76,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/102001618132699858486\"\u003eThe Omni King Edward Hotel\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAoe1ZLKKxdzCHAfaqB_4MiuDtLtWebPtCvHLRRixiekZAGtfQ1LiTqmNwtEnqdWbAoLTIKj_HTYkKf4-Uv0rtcEguLyGFhJy9Tfs_-xYcS7WS7m1ZsSoD1sgjx3gw-iBjEhC_i8cfpYz00OH0qH3X7Y9kGhQTkQp1JyGyGgHI8BgdJvQXBS0w-w",
+               "photo_reference" : "CmRaAAAAfjnfQdpdiT647gJVN-0VW15hpV3SRpoX51MiKbrkXHytuZgzdSUEMG39b5V_qLobUCpmlnqzoeV9THoo9444EuWB4yFU_7O38MgIdT2uQ4VPCnbM2oOUxv2OjL1BEh06EhCLUNMkzK4M26r9PtDT8uD1GhRKSOJgGRzJ7DnYn81ftO5fi3z6XA",
                "width" : 6865
             }
          ],
@@ -132,51 +88,7 @@
          "rating" : 4.6,
          "reference" : "ChIJ4z93DtkwK4gREn_Ps_Y7Cfs",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 2979
-      },
-      {
-         "formatted_address" : "262 Carlingview Dr, Toronto, ON M9W 5G1",
-         "geometry" : {
-            "location" : {
-               "lat" : 43.6877886,
-               "lng" : -79.5964177
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 43.68893432989272,
-                  "lng" : -79.59504312010728
-               },
-               "southwest" : {
-                  "lat" : 43.68623467010728,
-                  "lng" : -79.59774277989273
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "e1935ec1cae054740e6ea20591dfcb411cf23d58",
-         "name" : "Embassy Suites by Hilton Toronto Airport",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 4320,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/113964617274597370447\"\u003eA Google User\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAvKBkpkD0Is7MS2ISpOzZp2QAev8UnF7rDyWWylSxSEfVX_qs4hPX4Q8yNmCJeurN3rvXBVFc_-TXO1G5CIjFhjhozZWSRj45tn22xyxdaNFUjL-USKw5nck-Przc0VraEhDB_9UdLp_z2Jq7C845KDbgGhRzc8PaY1KOomPbDnBAc5VKFvns1w",
-               "width" : 7680
-            }
-         ],
-         "place_id" : "ChIJM4jfzpo5K4gR-esWBMzSjv4",
-         "plus_code" : {
-            "compound_code" : "MCQ3+4C Toronto, Ontario",
-            "global_code" : "87M2MCQ3+4C"
-         },
-         "rating" : 4.4,
-         "reference" : "ChIJM4jfzpo5K4gR-esWBMzSjv4",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 813
+         "user_ratings_total" : 2985
       },
       {
          "formatted_address" : "1 Harbour Square, Toronto, ON M5J 1A6",
@@ -208,7 +120,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/115723704077800451115\"\u003eThe Westin Harbour Castle, Toronto\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAoTLldUw2g3b4bJkgIGLKFj9MVCyjP-e6rCvcsUGvDFDdJ8HfIaRTGjn_0jupqW7FZFioXLYobJYsJdz7zEahKcP6TWL8pMB2eqNvIjoDtvPJ_UdqdvBMNO4bhtu9SVNYEhAnqtm2sgjvhT_6WINFlpCFGhRkPLgWEpNao3wyHpf5OgNjYR6PFQ",
+               "photo_reference" : "CmRaAAAAbPWuc3hHOPW82J9B6neUJlHW_5c6XumeleJtGzlTjTIwPOL4Ik8Ktndm7t0x0qslJ8XbuuAM_c3FaOst7R_r_KWXmbtWe96rr3ySZaWsweUkRJhvjWJoIezeUTPWcfnREhAQRgi0ddBwQbP1ra5XjBLIGhRi5AP1ADxOXBkwpCjHPyZttTKUTQ",
                "width" : 2048
             }
          ],
@@ -220,51 +132,95 @@
          "rating" : 4.3,
          "reference" : "ChIJH-wxNCrL1IkRKANEYBdXw8k",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 5709
+         "user_ratings_total" : 5716
       },
       {
-         "formatted_address" : "5515 Eglinton Ave W, Toronto, ON M9C 5K5",
+         "formatted_address" : "45 The Esplanade, Toronto, ON M5E 1W2",
          "geometry" : {
             "location" : {
-               "lat" : 43.6524278,
-               "lng" : -79.60113129999999
+               "lat" : 43.6465623,
+               "lng" : -79.374578
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 43.65394692989273,
-                  "lng" : -79.59984677010729
+                  "lat" : 43.64800602989272,
+                  "lng" : -79.37311552010728
                },
                "southwest" : {
-                  "lat" : 43.65124727010728,
-                  "lng" : -79.60254642989273
+                  "lat" : 43.64530637010728,
+                  "lng" : -79.37581517989273
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "61c6a336bccb006791aa9414b62ec4cca199bbfc",
-         "name" : "Homewood Suites by Hilton Toronto Airport Corporate Centre",
+         "id" : "2c12a50a22440230cf6ebeba806d951e574a5c35",
+         "name" : "Novotel Toronto Centre",
          "opening_hours" : {
             "open_now" : true
          },
          "photos" : [
             {
-               "height" : 1500,
+               "height" : 4910,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101913029542468253211\"\u003eHomewood Suites by Hilton Toronto Airport Corporate Centre\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113117279893084520170\"\u003eNovotel Toronto Centre\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA948j5aBBd-sI5daFn5qwgAuxkHkZ4t7c3iALGOoN256E7rLPwkNkMzgGpE6Fj7S41zuHa0BvowsBPxU4rZ117AGlURAJjpfVCxfqgLD5iQEmy79y3XJWHdpW4G9pEknIEhAOXzqahYoqx4hKazIo-WYdGhRFGljoBi12K5AaWsXcr-ETflAfeA",
-               "width" : 2250
+               "photo_reference" : "CmRaAAAAZriCKUhizSRblUMHojfPOxAapqRNT7GSbTIAyTr6fzeW05pHMsum51_SMSvvxe9Kiz5qq-kIzckQURBLLR4zIdovYNaA6XH4SrioygKBm4MHGpCDRo9KtX0kvghQSYF2EhAXBRF7ZmdOdoojYsIX_89OGhRDZqmXvnwVlIAtNKYHHMntz_FURg",
+               "width" : 6576
             }
          ],
-         "place_id" : "ChIJRQjmBFc4K4gRYxSA_z41oeU",
+         "place_id" : "ChIJ4Vom0XEtK4gRuU9aq9LpTqA",
          "plus_code" : {
-            "compound_code" : "M92X+XG Etobicoke, Toronto, ON",
-            "global_code" : "87M2M92X+XG"
+            "compound_code" : "JJWG+J5 Toronto, Ontario",
+            "global_code" : "87M2JJWG+J5"
          },
-         "rating" : 4.4,
-         "reference" : "ChIJRQjmBFc4K4gRYxSA_z41oeU",
+         "rating" : 4.2,
+         "reference" : "ChIJ4Vom0XEtK4gRuU9aq9LpTqA",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1745
+      },
+      {
+         "formatted_address" : "3450 Dufferin St, Toronto, ON M6A 2V1",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7259196,
+               "lng" : -79.4592332
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72724712989272,
+                  "lng" : -79.45760867010728
+               },
+               "southwest" : {
+                  "lat" : 43.72454747010728,
+                  "lng" : -79.46030832989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "be61f6851907e0e3c57fa56b114d896e11d20609",
+         "name" : "Holiday Inn Toronto-Yorkdale",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111484257116256284965\"\u003eHoliday Inn Toronto-Yorkdale\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAsriaQ-dP8shFnVUpS6kdXgiJQ9U8mDxsL9Y8pxF2txeZtWVYjDPFzNfxSdU1ACalE9kGI07gIEXnyPQYLtONA-3p6GM0MpmL05hmsJILyD6YnojQSH-kIyJpNjaoPxEdEhDHKJ0CjMzCFKUTKtMMBKFLGhTtm80IZAqtlOKkqDHJurXmDFNysA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJk_O-djIyK4gRlXK8HJfKiks",
+         "plus_code" : {
+            "compound_code" : "PGGR+98 North York, Toronto, ON",
+            "global_code" : "87M2PGGR+98"
+         },
+         "rating" : 4,
+         "reference" : "ChIJk_O-djIyK4gRlXK8HJfKiks",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 568
+         "user_ratings_total" : 1488
       },
       {
          "formatted_address" : "1 King St W, Toronto, ON M5H 1A1",
@@ -296,7 +252,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/104416269411653040341\"\u003eMatt Black\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAADx5R6OQYxG95Ejru8iX-wJxP84w9hThWXvtgxU6bkIhWAQlsWB2Hb2A-wIIu1j2gyArZsGO64biwxzV_8tNpVi1o0Qi8kmgBgSuElGqh_DXr3lTp9Y5zytKFGCijOfBqEhBEaMXJJePrEkmVPtMp6ivkGhQlibaaRra75ImUjM4qMqoiuVuQBA",
+               "photo_reference" : "CmRaAAAAyxxYayggCgzLuyyJvtTRpsxwjLMx84gIcosduRA75i4NDkoMGIHcQoq4k-X45dDa7FGcmubaJM4j9evtA3geVTBKAeVs2U4dpLbTiflKNX6EOf3e1K8K8k6vcviwW-SbEhAfCEQzoL0ZHSKv_VXbhd9VGhRjufqhlf3OvKC_HiFc1mgt-XVmeA",
                "width" : 1463
             }
          ],
@@ -308,7 +264,7 @@
          "rating" : 4.4,
          "reference" : "ChIJG74DgzLL1IkRu7-_ro1TbdY",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 3543
+         "user_ratings_total" : 3552
       },
       {
          "formatted_address" : "15 Richmond St E, Toronto, ON M5C 1N2",
@@ -340,7 +296,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/110626361945231928194\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAooJmRhEMEOVe8J3mrdBLw7W1GHzn05YNRw_thuD4OH7gwt9Xzyd4REuk8lgaWsmQy4T6gTyZi_Mhw8fPjux-Aaf11FP_UkXMDWpICR1CbespgY0F2cu84wBA5wCIk2IhEhAyuleFtFDRwHryKeJsdZtUGhR2FqiaQN5yiymaC8ZKRuY3CtpVaQ",
+               "photo_reference" : "CmRaAAAAIAxAr2IaGvaJ4JoXJ7UsKob6VNzPWF9sAo48chbkWfDTIXjo_i9Wpj5vwWGCQe6LZbHS6gWCZEJEHZ1-EKbo5vYvwOydD_GalICyjeUUQbR8ry_QzE5ihZih_pzzlsXwEhDI9XflH9WAkpNSPfFAZmsxGhReF2gITW1AkZ0pKtMk3yuPt8rFJw",
                "width" : 3024
             }
          ],
@@ -352,7 +308,7 @@
          "rating" : 4.2,
          "reference" : "ChIJzwA3DzPL1IkRPnA8d72WVyQ",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 998
+         "user_ratings_total" : 1000
       },
       {
          "formatted_address" : "75 Lower Simcoe St, Toronto, ON M5J 3A6",
@@ -384,7 +340,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/107233271373721392683\"\u003eDelta Toronto\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAT5lqbo9wvY_Gc3JH5YnBS8zGrevcTNlcSzRtZd26w9DZh0IS20ddpkfMZlecA1wUWhS73hh_FPUdZ_DPUot91cppYA7tOlYBwjGD0ULxLOVrTZn2m9pSRfWlUycCsQSDEhBGBXjQKHdPolReQ1M1YRgaGhQyyu-_upWsTcTImG5HGp5XEOOssw",
+               "photo_reference" : "CmRaAAAA5wIdlKOi8X_GZGxhMDbQ-mFTn7nFuETEc4zF25jPD_E6IOh5K155ODpkoEzZA6T-3no5jf4_XjQlif2SJIrspmnA566dxDr3rE2Al89imaQE9bNbVQV3iAe3VadGANV3EhAkXv-7x8BjjTuRAHt9etDQGhRKLcMzN_4TEj-m_cHob_VZ90330g",
                "width" : 2048
             }
          ],
@@ -397,6 +353,50 @@
          "reference" : "ChIJuYrhUdQ0K4gRUSw-PfCMWac",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
          "user_ratings_total" : 3381
+      },
+      {
+         "formatted_address" : "357 College St, Toronto, ON M5T 1S5",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.657117,
+               "lng" : -79.40363239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65853717989272,
+                  "lng" : -79.40229902010728
+               },
+               "southwest" : {
+                  "lat" : 43.65583752010728,
+                  "lng" : -79.40499867989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "c4d94d74d6b50980a3b6dcccdd5d7d7dc5ff15d7",
+         "name" : "The Planet Traveler Hostel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1188,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105537568064988808732\"\u003eThe Planet Traveler&#39;s Hostel\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKr23mMjKamSasAz7VGvWuwnN7-5ZxAiDt6fIQURzBqXv8rBJIN_UIwMMeMfQbcveWKR65ln7ioLXpXF_1Lk-1wTdI5hl5Xh8wPRvKoWrUjAPf2A52A-F0YnduPL_Sl1GEhA0j2vb3mphjungHHZWIgBRGhRk8Qj73sVzLaEc9u0cPk-5a868Hw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJH_LUisI0K4gRZY9Reeel-UQ",
+         "plus_code" : {
+            "compound_code" : "MH4W+RG Toronto, Ontario",
+            "global_code" : "87M2MH4W+RG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJH_LUisI0K4gRZY9Reeel-UQ",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 494
       },
       {
          "formatted_address" : "255 Wellington St W, Toronto, ON M5V 3P9",
@@ -428,7 +428,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/102901071539162636705\"\u003eRachel Krueger\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAQ6uAG7KbW1khGPK78vUlxCIfCqGB8dJGQCfwrHEcixIBbs2k2VlWa2RodQ-HcUgTtK-mpFSKgYKao6Dpi30JgvTO3YGWqp3Z83GarSf5JaSvoVejzxowW5GJwSGXJbinEhAeb1DF-So4MXntTzlh6HUgGhRQU-4kgoTC83U9knbM_pOKrAAjmQ",
+               "photo_reference" : "CmRaAAAATHaLNQsrhcNRnW8iQL0NFmo-5zjZutQn_v_rfFcIQUbNKIGgnVvsjTGIxx3d04geA4cru-p8qH5B_648rgDspYdpwfcRv6XawP2mJpX-OMo8jx7EqAqgoOHQV4EA04QLEhBeUFDbNxy_tVROqltSd2WYGhSqK-2pEHMBvgveDAZGqhIxI_Ntsw",
                "width" : 3024
             }
          ],
@@ -440,7 +440,7 @@
          "rating" : 4.3,
          "reference" : "ChIJRQoITNc0K4gRMBoATwPJLYs",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1678
+         "user_ratings_total" : 1680
       },
       {
          "formatted_address" : "9 Old Mill Rd, Etobicoke, ON M8X 1G5",
@@ -472,7 +472,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/107524121520887269607\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAMSan_o22SVD1UYnpChMMARDStU0dEOBePRxkEKegjve99UYlE3sa7TSdXu4ec-y1EWR3XEt6rObK-uVL0hqk_awAV5U3IlgUInggj6GUNxT5u88BsuU0xz7ww2oxFZa8EhDO6Bf_PfTz_-3BZKSAMFH8GhT_jd6rhw8wIEIf3T9_YUlBMHrFjw",
+               "photo_reference" : "CmRaAAAA-FZU7NKg31Z2xfpcHJV0ney6cy8JPuImmxTkyZVwp7nzECsYiHSPu0sP2prjLCtQ9zd-Uopxm1cr_4zRlb3C6SYz5rAbNEduKseHbQfu4xULTpSf4sonihEPgdv11_lZEhCGKZdkR8Tlyzlq1kxKBjD8GhQuKNViFU9Us8QCKEXd47WiAlVybg",
                "width" : 2880
             }
          ],
@@ -491,7 +491,7 @@
             "point_of_interest",
             "establishment"
          ],
-         "user_ratings_total" : 3207
+         "user_ratings_total" : 3209
       },
       {
          "formatted_address" : "60 York St, Toronto, ON M5J 1S8",
@@ -523,7 +523,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/118122271902262814698\"\u003eThe Strathcona Hotel\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAYxpbkTjHJCFHJ0PFR-AyuAQusaWy8FVcxH_fK_sNvShcZAOWsl_u59mNTl6zNBQPMDUUAVylhZz4VcCm08Z2S7TNssNRKbeMlOeXZQTuxT88la5ab2ZuuMlH7M1BjR4lEhDHV3s3k7dfGQjJ2LRuBdQiGhRt7tsWw4OXz38tvLofTUBJX8nThw",
+               "photo_reference" : "CmRaAAAAfwJ1CmgWYm254D-r9nQcoKnujo8Wz833BIcZblYtrlDqNOiaPPm3Uy6nGKy6qb6kiCEuudAp49CXLFut6JyNu7C9vKZDfeHfRPV5Ha_PFWvwshBmKWKXhbfZwHMiLs3jEhAe_HiqJ44FewVJDyZYyx2BGhQCGcsssLeZSeigpU_fDkAQrV2-Zw",
                "width" : 1200
             }
          ],
@@ -535,7 +535,7 @@
          "rating" : 3.9,
          "reference" : "ChIJ9YfQANM0K4gRCaW92B6kLzg",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1548
+         "user_ratings_total" : 1552
       },
       {
          "formatted_address" : "1150 Queen St W, Toronto, ON M6J 1J3",
@@ -567,8 +567,8 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/107996712493642607766\"\u003eThe Drake Hotel\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAYDmvhop9nmiUb3knk4ePaDPYfwr92vqYqjMJg6ikp_YmkrqMhSDQZJK_Td8npKxSfEoAD7iHRUaYWNO7YvWAJv_bS8VuQR8OlttadM5cetMxM-u0hy4ciAFjELP_nMt8EhB-RlCq8phKYi1GKgepDj6qGhR_AwFfGaIWaAcpotMkDx_UOzLDNw",
-               "width" : 1080
+               "photo_reference" : "CmRaAAAAHRwEHGrsNVINekYKiR7ASL0AOlxGZtPpQh1_gwWJBoeFZ2IvkIyfCk-IpfgnS1pHz-Ynj676CQ6OJ6vea9s87LxbdTeNXHdCPvA9HtRm1-o86jKhjg-78Q3M94NXdEerEhDvAosR4bqPKaO9XhPhPEqrGhTKdljGH6kO7tyzKq3Kd7OoWVQMVg",
+               "width" : 1209
             }
          ],
          "place_id" : "ChIJ8b_aGgA1K4gR3n2TF4fM1Es",
@@ -586,7 +586,51 @@
             "point_of_interest",
             "establishment"
          ],
-         "user_ratings_total" : 4252
+         "user_ratings_total" : 4255
+      },
+      {
+         "formatted_address" : "925 Dixon Rd, Toronto, ON M9W 1J8",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6861357,
+               "lng" : -79.59633219999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68739112989272,
+                  "lng" : -79.59498237010727
+               },
+               "southwest" : {
+                  "lat" : 43.68469147010727,
+                  "lng" : -79.59768202989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "44c9dead216cf916976d75c8f41ca4a33358b4c4",
+         "name" : "DoubleTree by Hilton Toronto Airport",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110034316827364384211\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj0Qi_tTmt35WePSqS1e6siVrL-ucndssj6JCV9QRATobqQiI9bLuS_wMLvo5yH6Q4ilbPAfNLLJ0LhO9WVlRkSyvrcunW4uaYQptnzzraa9OY-AprbVHlNNH8pjSnl9QEhCH-5Bx4cVOO2agSKdO-cxMGhT8JZ9t861Xu6vuIUN3EwQHwG0zGg",
+               "width" : 4500
+            }
+         ],
+         "place_id" : "ChIJ3Voy5Zo5K4gRkuQFpSVhrPE",
+         "plus_code" : {
+            "compound_code" : "MCP3+FF Toronto, Ontario",
+            "global_code" : "87M2MCP3+FF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ3Voy5Zo5K4gRkuQFpSVhrPE",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 899
       },
       {
          "formatted_address" : "5503 Eglinton Ave W, Etobicoke, ON M9C 5K5",
@@ -618,7 +662,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/101968410422399269721\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAc9WztssY4XBcdQ0ddGpR6FTqMTLM2UEuecksEYx_e6aMx07pAiDAMI1GlDg41O4ekU84qF6QPXpjphLfy3Pc3RlXgwTnKiLB9M2_xnPNPm9_t5q8b-ZFd0Ytr4jDRiEBEhBfW3I6Cruec3ZwPDDr8urlGhRX9XRON6wvijlceCQfZgQbsB2DUQ",
+               "photo_reference" : "CmRaAAAA6qqTtuEfKzL055xBzf2_PwmirgHd18h4knndxNGsNC6zcpCvki-ZFq2SnF6AWZA4Vs7NR7SVqtQ_yud8VQTzxSmk2urZkSwzLd4GWrJQbwANtdRDNjHlFZXIz5f6ciTMEhAqPPPHt5uyw0hMPYMpICv7GhTq68GtWcSg5MGL5UNRUXLN20CbOg",
                "width" : 3840
             }
          ],
@@ -630,7 +674,7 @@
          "rating" : 4.2,
          "reference" : "ChIJKwsd51Y4K4gRFcNDKffT2P8",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 939
+         "user_ratings_total" : 940
       },
       {
          "formatted_address" : "135 Carlingview Dr, Etobicoke, ON M9W 5E7",
@@ -662,7 +706,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/103552332832419122675\"\u003eBest Western Premier Toronto Airport Carlingview Hotel\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAWR5IaFxzKPCmJrlClZWshU1BKW6WPg75OtInBFj56XTAKC9TuAJhDXGomLu0FIQ-3-Aq9h5Bx6E2R24Bp91c6tc76nTZrGrT9j9l7z4f9C-Hc8InqNkqfsTzpR5b98wOEhDMRocSxRdyYPQwNtmMoTQCGhRWJ_7KXtv8D9h6uGsZ1BIkagtPYA",
+               "photo_reference" : "CmRaAAAAHzdX-eR0Z_vXy4LxY1zV-FpJbHLCgZs4LaEg397_BhaiqMZyKlqEWRpwBllcgOMAKzdtOD27YVPU8ZYzsixhjxzSstnzvTUbGeTv1cjmUDscydSAjgQ8BsNtgcGWcLEfEhCPG-4FC8pcJkQ-QWYiN39yGhS9pRsG8tmsD3Ki4xVx9_Ekkwy6RA",
                "width" : 3840
             }
          ],
@@ -674,7 +718,51 @@
          "rating" : 4.1,
          "reference" : "ChIJ48JOy5c5K4gR7d9dks9t-n4",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 889
+         "user_ratings_total" : 890
+      },
+      {
+         "formatted_address" : "262 Carlingview Dr, Toronto, ON M9W 5G1",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6877886,
+               "lng" : -79.5964177
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68893432989272,
+                  "lng" : -79.59504312010728
+               },
+               "southwest" : {
+                  "lat" : 43.68623467010728,
+                  "lng" : -79.59774277989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "id" : "e1935ec1cae054740e6ea20591dfcb411cf23d58",
+         "name" : "Embassy Suites by Hilton Toronto Airport",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113964617274597370447\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqnR3xJvhwVDzuv-vdBFvocsXfids4XXGblYJsZ-u5HxUP0KCd5fO19ndRFckKx2U8xJJIp6gLaW1-kphGL9FSqJEPSoEadpXoeYne6C2gIv_xzbEp-IpMTtEEOPbEUDhEhAfyJWbMPGACO8ilNNAKol9GhQ0DsR4Er4knxPZSWxGAG2xpdxohw",
+               "width" : 7680
+            }
+         ],
+         "place_id" : "ChIJM4jfzpo5K4gR-esWBMzSjv4",
+         "plus_code" : {
+            "compound_code" : "MCQ3+4C Toronto, Ontario",
+            "global_code" : "87M2MCQ3+4C"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJM4jfzpo5K4gR-esWBMzSjv4",
+         "types" : [ "lodging", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 815
       },
       {
          "formatted_address" : "33 Gerrard St W, Toronto, ON M5G 1Z4",
@@ -706,7 +794,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/102399222813123601621\"\u003eEaton Chelsea, Toronto\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAgrckUbLMu3Ndk4NUhN9FeQvRS5yZXOeC9GeddUock3_QmhnC8auEN6z0Ttv4u9BpFlnBKeHCu579A3SmGsS3Viy2RvnAhPn_HZ-7RogTFN8H8Z0NUP7kgMF4IkY2mSROEhCnGKl8A5N-XRm4gXYuiPjQGhSEj5bERhN-UiGrH9gUujxYGia2pg",
+               "photo_reference" : "CmRaAAAAdLBmoScYGeLwVDps7Y4kKrn-kwg5oRXOZ60-TCjlAAE_g5RJ4kaHu-5butLugBofG5MzTpgRrFoH0Kw8PUVWI2imUIz2NF3YjQmrKCY3daIYioaBQencjC3oaFWRjMadEhAC3Wx9R0g56TjeM9ezH5EuGhSuH8YSWR1pIU9CTG-XxscFSZfNIw",
                "width" : 2119
             }
          ],
@@ -718,7 +806,7 @@
          "rating" : 3.9,
          "reference" : "ChIJ1aqIf7U0K4gRqQZZxRiNv6k",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 8282
+         "user_ratings_total" : 8288
       },
       {
          "formatted_address" : "5515 Eglinton Ave W, Toronto, ON M9C 5K5",
@@ -750,7 +838,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/107091985356099027373\"\u003eHampton Inn by Hilton Toronto Airport\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA0Seo3EWKG5utJR2BFpipgO1CsIWJPU2zG7CesCu4hLatggjMqI1wT7rUkxk9-5u3CWQ6-MvaoPqiDgVk8z4AQ_oyIH3HYmmxqjZToLwJLmZH-gZUzR2EFjKT3nsoODV2EhAjR263RJoutoFjnJ8Bpnk8GhQhhByHPp4NwxlazX3Ed7eSy8_eOg",
+               "photo_reference" : "CmRaAAAAP5t3dQ835U1SVTBSK5wIjBoOgoC0pqkVoxl6U5tQPpjaZmPX0ho8woZMXR-EjMQWU8UgSFDwFfvV4xpoiRMFa1V6Rt5ldepXZc1kQnYtMXr4NDHy5BSnd55YaolS6Yd8EhC2QvJ7a1B6CbtvuitJ0mxyGhRXrVn_qhuGEmnO_BAz6PD0NbqywA",
                "width" : 2250
             }
          ],
@@ -762,7 +850,7 @@
          "rating" : 4.4,
          "reference" : "ChIJRQjmBFc4K4gRuUuYs1Hc4Pc",
          "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 767
+         "user_ratings_total" : 769
       },
       {
          "formatted_address" : "100 Front St W, Toronto, ON M5J 1E3",
@@ -794,7 +882,7 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/115530272729752155231\"\u003eFairmont Royal York\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA94d8JUoIE6DlUgaEFNb2rUj1ApZQZxbIwfDHRmN2vGzljXijluJbny7y1kPNpqw0zUKCrq2Ju9XOVngnTnbEgnR9mMYuo1kD-tdQWkhA_sqsZM2LWM02XTdzkCuqX2tLEhCM2bfpRKO0G46kxG04HPNHGhSDEFGF98Vhv0DZFmwLGOsFc-KJsA",
+               "photo_reference" : "CmRaAAAA1mfQ8wSqCBVftd69UdLBBE2SsHTQLGaFf-J5BIgj4THHE6zceqfc8AZgegkTXoM6p3IyjFqnqL0P0n3vmGNoBA1ujfLS0JDQtrv59MyioJmijUtUWU5fZpeulopgdCRpEhB8cfXvekgp1D69kXfk9D5hGhS9UZRkD1npBuesniWiFXcxqBI4Mw",
                "width" : 2048
             }
          ],
@@ -806,95 +894,7 @@
          "rating" : 4.5,
          "reference" : "ChIJYY4qFdM0K4gRDydzDiP-VAE",
          "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 8212
-      },
-      {
-         "formatted_address" : "249 Queen's Quay West, Toronto, ON M5J 2N5",
-         "geometry" : {
-            "location" : {
-               "lat" : 43.6388472,
-               "lng" : -79.3855839
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 43.64019702989272,
-                  "lng" : -79.38423407010728
-               },
-               "southwest" : {
-                  "lat" : 43.63749737010727,
-                  "lng" : -79.38693372989273
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "28ef307034f9e009d1403a02a686507c0f15b587",
-         "name" : "Radisson Admiral Hotel Toronto-Harbourfront",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 1192,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109820546866711716847\"\u003eRadisson Hotel Admiral Toronto-Harbourfront\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRZAAAAJPvBzDGD2U6iT-Z2XuJ05-O94JdPVmP3i_NuVEkikiisuA862FF-2szz82uqHigz9KfrFp93CS1pSORjilywZ3BUhTcAjoZ3Nu0Uvtty_N4lTs15cIoOe0ZZweGJfbobEhDdH7IWrzFSko1MdqPxAg5wGhT1NbyPUdmg2iurDOCIyOpJqjQNrg",
-               "width" : 2119
-            }
-         ],
-         "place_id" : "ChIJX-YHICo1K4gR1SQ3P5SL7EI",
-         "plus_code" : {
-            "compound_code" : "JJQ7+GQ Toronto, Ontario",
-            "global_code" : "87M2JJQ7+GQ"
-         },
-         "rating" : 4.3,
-         "reference" : "ChIJX-YHICo1K4gR1SQ3P5SL7EI",
-         "types" : [ "lodging", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 1566
-      },
-      {
-         "formatted_address" : "80 Blue Jays Way, Toronto, ON M5V 2G3",
-         "geometry" : {
-            "location" : {
-               "lat" : 43.645542,
-               "lng" : -79.3924155
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 43.64692157989273,
-                  "lng" : -79.39094297010728
-               },
-               "southwest" : {
-                  "lat" : 43.64422192010728,
-                  "lng" : -79.39364262989272
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
-         "id" : "a23bab426ecec11103e09c0502b3f5264e44568b",
-         "name" : "Bisha Hotel Toronto",
-         "opening_hours" : {
-            "open_now" : true
-         },
-         "photos" : [
-            {
-               "height" : 2642,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/114520858891798120128\"\u003eBisha Hotel and Residences\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAq9Aaq19ORIzGEx4u7qYErOf7GM61w3-39QnDsuqip8QPipOeUnKPLM9YVskp0R7lqthlhsNClPe1RCbJcQqxiXpdlZnNVvPmLd0HindkEGjSeQCHCzlF0ENXiT7bD5zyEhCBNDOc6GbNBivIhYLTz2HJGhQz1z-fdxOmFuCa2Gg5CItfRZ1u4A",
-               "width" : 3000
-            }
-         ],
-         "place_id" : "ChIJiTuiAto0K4gRcsMSKhnVjVw",
-         "plus_code" : {
-            "compound_code" : "JJW5+62 Toronto, Ontario",
-            "global_code" : "87M2JJW5+62"
-         },
-         "rating" : 4.5,
-         "reference" : "ChIJiTuiAto0K4gRcsMSKhnVjVw",
-         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
-         "user_ratings_total" : 865
+         "user_ratings_total" : 8220
       }
    ],
    "status" : "OK"

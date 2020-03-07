@@ -89,20 +89,24 @@ class DataGatherer:
         #use Django ORM to save data to dbms, sqlite3, for location_data
         for entry in places_data.json()['results']:
             data = Poi()
+            data.save()
             if "price_level" in entry:
                 data.priceLV = entry["price_level"]
-                data.placeType = PoiType(pType='restaurant')
+                poi_instance = PoiType.objects.get(pType='restaurant')
+                data.placeType = poi_instance
             else:
-                data.placeType = PoiType(pType="hotel")
+                poi_instance = PoiType.objects.get(pType="hotel")
+                data.placeType = poi_instance
             data.address = entry["formatted_address"]
             data.name = entry["name"]
             data.rating = entry["rating"]
             data.ratingCount = entry["user_ratings_total"]
             data.location = Location(city=city, country='canada')
+            print(data)
             
-            data.location.save()
-            data.placeType.save()
-            data.save()
+            #data.location.save()
+            #data.placeType.save()
+            #data.save()
         
         #print(Poi.objects.all())
         #save data to file
