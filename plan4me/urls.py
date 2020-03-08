@@ -18,9 +18,11 @@ from django.urls import path, include
 from django.views.generic import RedirectView
 from django.conf import settings
 from django.conf.urls.static import static
+from users import views as users_views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('register/', users_views.register, name='register'),
     path('planner/', include('planner.urls')),
     path('', RedirectView.as_view(url='planner/', permanent=True)),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
